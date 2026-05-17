@@ -1,0 +1,62 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Ara{\'u}jo e Guimar{\~a}es 2024]{referencia7}
+\abntrefinfo{Ara{\'u}jo e Guimar{\~a}es}{ARA{\'U}JO; GUIMAR{\~A}ES}{2024}
+{ARA{\'U}JO, M. E. d.~S.; GUIMAR{\~A}ES, L.~L. A import{\^a}ncia econ{\^o}mica,
+  ecol{\'o}gical e ambiental das abelhas para os apicultores de madalena,
+  cear{\'a}.
+\textbf{Revista Campo-Territ{\'o}rio}, Madalena, CE, v.~19, n.~53, p. 1--22,
+  2024.
+ISSN 2525-4863.}
+
+\bibitem[Barbosa e Cardoso 2020]{referencia2}
+\abntrefinfo{Barbosa e Cardoso}{BARBOSA; CARDOSO}{2020}
+{BARBOSA, S.~L.; CARDOSO, P. H.~G. Atividade ap{\'i}cola desenvolvida pela
+  associa{\c{c}}{\~a}o de apicultores em cari{\'u}s-ce.
+\textbf{Research, Society and Development}, v.~9, n.~7, p. e932974913, 2020.}
+
+\bibitem[Dagnino 2010]{dagnino2010}
+\abntrefinfo{Dagnino}{DAGNINO}{2010}
+{DAGNINO, R. \textbf{Tecnologia Social: ferramenta para construir outra
+  sociedade}. 2. ed. S{\~a}o Paulo: Instituto de Tecnologia Social, 2010.}
+
+\bibitem[Ecco \textit{et al.} 2010]{ecco2010}
+\abntrefinfo{Ecco \textit{et al.}}{ECCO \textit{et al.}}{2010}
+{ECCO, I.~L.; RIBEIRO, R.; KOCK, K.~F.; MARCON, R.; ALBERTON, A. Teoria de
+  ag{\^e}ncia em uma organiza{\c{c}}{\~a}o sem fins lucrativos.
+\textbf{Estrat{\'e}gia e Neg{\'o}cios}, Florian{\'o}polis, v.~3, n.~1, p.
+  71--88, 2010.}
+
+\bibitem[{International Organization for Standardization} 2011]{referencia9}
+\abntrefinfo{{International Organization for Standardization}}{{International
+  Organization for Standardization}}{2011}
+{{International Organization for Standardization}. \textbf{ISO/IEC 25010:
+  Systems and software engineering -- Systems and software Quality Requirements
+  and Evaluation (SQuaRE) -- System and software quality models}. 2011.
+Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
+  de software.}
+
+\bibitem[Singer 2002]{singer2002}
+\abntrefinfo{Singer}{SINGER}{2002}
+{SINGER, P. \textbf{Introdu{\c{c}}{\~a}o {\`a} Economia Solid{\'a}ria}. S{\~a}o
+  Paulo: Funda{\c{c}}{\~a}o Perseu Abramo, 2002.}
+
+\bibitem[Sommerville 2011]{sommerville2011}
+\abntrefinfo{Sommerville}{SOMMERVILLE}{2011}
+{SOMMERVILLE, I. \textbf{Engenharia de Software}. 9. ed. S{\~a}o Paulo: Pearson
+  Prentice Hall, 2011.}
+
+\bibitem[Veras 2025]{referencia1}
+\abntrefinfo{Veras}{VERAS}{2025}
+{VERAS, H.~L.
+\textbf{A expans{\~a}o da apicultura no Nordeste: hist{\'o}rico e
+  perspectivas}.
+Trabalho de Conclus{\~a}o de Curso (Zootecnia) --- Universidade Federal do
+  Maranh{\~a}o, Chapadinha, 2025.}
+
+\end{thebibliography}
