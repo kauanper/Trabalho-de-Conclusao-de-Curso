@@ -5,7 +5,7 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[Ara{\'u}jo e Guimar{\~a}es 2024]{referencia7}
+\bibitem[Ara{\'u}jo e Guimar{\~a}es 2024]{araujo2024}
 \abntrefinfo{Ara{\'u}jo e Guimar{\~a}es}{ARA{\'U}JO; GUIMAR{\~A}ES}{2024}
 {ARA{\'U}JO, M. E. d.~S.; GUIMAR{\~A}ES, L.~L. A import{\^a}ncia econ{\^o}mica,
   ecol{\'o}gical e ambiental das abelhas para os apicultores de madalena,
@@ -14,7 +14,7 @@
   2024.
 ISSN 2525-4863.}
 
-\bibitem[Barbosa e Cardoso 2020]{referencia2}
+\bibitem[Barbosa e Cardoso 2020]{barbosa2020}
 \abntrefinfo{Barbosa e Cardoso}{BARBOSA; CARDOSO}{2020}
 {BARBOSA, S.~L.; CARDOSO, P. H.~G. Atividade ap{\'i}cola desenvolvida pela
   associa{\c{c}}{\~a}o de apicultores em cari{\'u}s-ce.
@@ -40,7 +40,7 @@ Trabalho de Conclus{\~a}o de Curso (Bacharelado em Ci{\^e}ncia da
   Computa{\c{c}}{\~a}o) --- Universidade Federal de Alfenas, Alfenas, MG,
   2021.}
 
-\bibitem[{International Organization for Standardization} 2011]{referencia9}
+\bibitem[{International Organization for Standardization} 2011]{iso25010}
 \abntrefinfo{{International Organization for Standardization}}{{International
   Organization for Standardization}}{2011}
 {{International Organization for Standardization}. \textbf{ISO/IEC 25010:
@@ -48,6 +48,22 @@ Trabalho de Conclus{\~a}o de Curso (Bacharelado em Ci{\^e}ncia da
   and Evaluation (SQuaRE) -- System and software quality models}. 2011.
 Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
   de software.}
+
+\bibitem[Khan \textit{et al.} 2009]{khan2009desempenho}
+\abntrefinfo{Khan \textit{et al.}}{KHAN \textit{et al.}}{2009}
+{KHAN, A.~S.; MATOS, V. D.~d.; LIMA, P. V. P.~S. Desempenho da apicultura no
+  estado do cear{\'a}: competitividade, n{\'i}vel tecnol{\'o}gico e fatores
+  condicionantes.
+\textbf{Revista de Economia e Sociologia Rural}, SciELO, v.~47, n.~3, p.
+  651--675, 2009.}
+
+\bibitem[Marreiro \textit{et al.} 2025]{marreiro2025apicultura}
+\abntrefinfo{Marreiro \textit{et al.}}{MARREIRO \textit{et al.}}{2025}
+{MARREIRO, F.~S.; IGUCHI, Y.~B.; MENEZES, K. Q.~C.; RODRIGUES, E. C.~N.;
+  FLOR{\^E}NCIO, M. N. d.~S. Apicultura como estrat{\'e}gia sustent{\'a}vel no
+  semi{\'a}rido brasileiro: contribui{\c{c}}{\~o}es da literatura e
+  evid{\^e}ncias bibliom{\'e}tricas. In:  \textbf{X Congresso Internacional das
+  Ci{\^e}ncias Agr{\'a}rias (COINTER PDVAgro 2025)}. [S.l.: s.n.], 2025.}
 
 \bibitem[Singer 2002]{singer2002}
 \abntrefinfo{Singer}{SINGER}{2002}
@@ -59,7 +75,7 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 {SOMMERVILLE, I. \textbf{Engenharia de Software}. 9. ed. S{\~a}o Paulo: Pearson
   Prentice Hall, 2011.}
 
-\bibitem[Veras 2025]{referencia1}
+\bibitem[Veras 2025]{veras2025}
 \abntrefinfo{Veras}{VERAS}{2025}
 {VERAS, H.~L.
 \textbf{A expans{\~a}o da apicultura no Nordeste: hist{\'o}rico e
