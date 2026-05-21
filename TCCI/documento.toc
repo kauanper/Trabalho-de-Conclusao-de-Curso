@@ -16,9 +16,9 @@
 \contentsline {section}{\numberline {2.5}Engenharia de Software e TDD}{23}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Citações bibliográficas}{24}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Inserindo figuras}{25}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Inserindo tabelas}{27}{section.2.8}%
-\contentsline {subsection}{\numberline {2.8.1}Exemplo de subseção}{27}{subsection.2.8.1}%
-\contentsline {subsection}{\numberline {2.8.2}Uso de siglas}{28}{subsection.2.8.2}%
+\contentsline {section}{\numberline {2.8}Inserindo tabelas}{28}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Exemplo de subseção}{28}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Uso de siglas}{29}{subsection.2.8.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Metodologia}}{30}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Exemplo de alíneas}{30}{section.3.1}%
