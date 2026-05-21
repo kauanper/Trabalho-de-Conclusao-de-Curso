@@ -5,6 +5,15 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Aguiar 2026]{aguiar2026}
+\abntrefinfo{Aguiar}{AGUIAR}{2026}
+{AGUIAR, E. M.~d.
+\textbf{Soluções digitais para a gestão de uma associação de produtores
+  rurais familiares: uma abordagem à luz das Teorias de Agência e de Custo de
+  Transação}.
+Tese (Tese (Doutorado em Desenvolvimento Rural Sustentável)) --- Universidade
+  Estadual do Oeste do Paraná (UNIOESTE), Marechal Cândido Rondon, 2026.}
+
 \bibitem[Ara{\'u}jo e Guimar{\~a}es 2024]{araujo2024}
 \abntrefinfo{Ara{\'u}jo e Guimar{\~a}es}{ARA{\'U}JO; GUIMAR{\~A}ES}{2024}
 {ARA{\'U}JO, M. E. d.~S.; GUIMAR{\~A}ES, L.~L. A import{\^a}ncia econ{\^o}mica,
@@ -19,6 +28,13 @@ ISSN 2525-4863.}
 {BARBOSA, S.~L.; CARDOSO, P. H.~G. Atividade ap{\'i}cola desenvolvida pela
   associa{\c{c}}{\~a}o de apicultores em cari{\'u}s-ce.
 \textbf{Research, Society and Development}, v.~9, n.~7, p. e932974913, 2020.}
+
+\bibitem[Bertolin \textit{et al.} 2008]{bertolin2008}
+\abntrefinfo{Bertolin \textit{et al.}}{BERTOLIN \textit{et al.}}{2008}
+{BERTOLIN, R.~V.; SANTOS, A. C.~d.; LIMA, J. B.~d.; BRAGA, M.~J. Assimetria de
+  informação e confiança em interações cooperativas.
+\textbf{Revista de Administração Contemporânea}, v.~12, n.~1, p. 59--81,
+  2008.}
 
 \bibitem[Dagnino 2010]{dagnino2010}
 \abntrefinfo{Dagnino}{DAGNINO}{2010}
@@ -57,6 +73,12 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 \textbf{Revista de Economia e Sociologia Rural}, SciELO, v.~47, n.~3, p.
   651--675, 2009.}
 
+\bibitem[Leal e Rodrigues 2018]{leal2018}
+\abntrefinfo{Leal e Rodrigues}{LEAL; RODRIGUES}{2018}
+{LEAL, K.~S.; RODRIGUES, M. d.~S. Economia solidária: Conceitos e princípios
+  norteadores.
+\textbf{Revista Humanidades e Inovação}, v.~5, n.~11, p. 210--220, 2018.}
+
 \bibitem[Marreiro \textit{et al.} 2025]{marreiro2025apicultura}
 \abntrefinfo{Marreiro \textit{et al.}}{MARREIRO \textit{et al.}}{2025}
 {MARREIRO, F.~S.; IGUCHI, Y.~B.; MENEZES, K. Q.~C.; RODRIGUES, E. C.~N.;
@@ -74,6 +96,13 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 \abntrefinfo{Sommerville}{SOMMERVILLE}{2011}
 {SOMMERVILLE, I. \textbf{Engenharia de Software}. 9. ed. S{\~a}o Paulo: Pearson
   Prentice Hall, 2011.}
+
+\bibitem[Sousa 2022]{sousa2022}
+\abntrefinfo{Sousa}{SOUSA}{2022}
+{SOUSA, P. \textbf{Associativismo - O que é, conceito, características e
+  benefícios}. 2022.
+Acesso em: 20 maio 2026.
+Dispon{\'\i}vel em: \url{https://conceito.de/associativismo}.}
 
 \bibitem[Veras 2025]{veras2025}
 \abntrefinfo{Veras}{VERAS}{2025}
