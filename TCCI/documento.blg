@@ -18,6 +18,8 @@ Database file #1: abntex2-options.bib
 Database file #2: 3-pos-textuais/referencias.bib
 Warning--entry type for "sousa2022" isn't style-file defined
 --line 128 of file 3-pos-textuais/referencias.bib
+Warning--entry type for "aprova2025" isn't style-file defined
+--line 156 of file 3-pos-textuais/referencias.bib
 Warning--I didn't find a database entry for "rakov2003lightning"
 Warning--I didn't find a database entry for "elat2015densidade"
 Warning--I didn't find a database entry for "LangtangenLogg2017"
@@ -33,45 +35,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 20 entries,
+You've used 22 entries,
             6714 wiz_defined-function locations,
-            1307 strings with 12917 characters,
-and the built_in function-call counts, 14352 in all, are:
-= -- 1179
-> -- 441
-< -- 64
-+ -- 250
-- -- 134
-* -- 967
-:= -- 1895
-add.period$ -- 52
-call.type$ -- 22
-change.case$ -- 168
-chr.to.int$ -- 52
-cite$ -- 15
-duplicate$ -- 729
-empty$ -- 1111
-format.name$ -- 649
-if$ -- 3399
+            1318 strings with 13341 characters,
+and the built_in function-call counts, 17389 in all, are:
+= -- 1504
+> -- 510
+< -- 137
++ -- 346
+- -- 154
+* -- 1168
+:= -- 2262
+add.period$ -- 59
+call.type$ -- 24
+change.case$ -- 191
+chr.to.int$ -- 57
+cite$ -- 17
+duplicate$ -- 1015
+empty$ -- 1235
+format.name$ -- 754
+if$ -- 4017
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 326
-newline$ -- 84
-num.names$ -- 75
-pop$ -- 362
+missing$ -- 363
+newline$ -- 94
+num.names$ -- 85
+pop$ -- 408
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 80
 quote$ -- 0
-skip$ -- 1035
+skip$ -- 1334
 stack$ -- 1
-substring$ -- 525
-swap$ -- 348
-text.length$ -- 19
+substring$ -- 666
+swap$ -- 461
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 11
 warning$ -- 0
-while$ -- 109
+while$ -- 124
 width$ -- 0
-write$ -- 250
-(There were 7 warnings)
+write$ -- 281
+(There were 8 warnings)
