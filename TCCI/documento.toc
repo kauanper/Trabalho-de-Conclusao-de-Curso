@@ -11,7 +11,7 @@
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{FUNDAMENTAÇÃO TEÓRICA}}{17}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Apicultura e Desenvolvimento no Semiárido Brasileiro}{17}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Associativismo e Economia Solidária}{18}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Confiabilidade de sistemas da informação}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Confiança Organizacional e Confiabilidade de Sistemas de Informação}{20}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Engenharia de Software e TDD}{21}{section.2.4}%
 \contentsline {section}{\numberline {2.5}exemplos do modelo de TCC UFC}{22}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Inserindo figuras}{23}{section.2.6}%
