@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  13 JUN 2026 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  13 JUN 2026 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1381,71 +1381,72 @@ Cap\'{\i }tulo 2.
 
 ] [18] [19] [20] [21]
 
-LaTeX Warning: Citation `feitosa2016' on page 22 undefined on input line 88.
-
-
-LaTeX Warning: Citation `feitosa2016' on page 22 undefined on input line 95.
+LaTeX Warning: Citation `feitosa2016' on page 22 undefined on input line 86.
 
 [22]
-<figuras/exemplo-1.jpg, id=377, 72.5117pt x 48.34114pt>
+
+LaTeX Warning: Citation `feitosa2016' on page 23 undefined on input line 93.
+
+<figuras/exemplo-1.jpg, id=351, 72.5117pt x 48.34114pt>
 File: figuras/exemplo-1.jpg Graphic file (type jpg)
 <use figuras/exemplo-1.jpg>
-Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 118.
+Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 116.
 (pdftex.def)             Requested size: 455.24408pt x 303.54382pt.
 File: figuras/exemplo-1.jpg Graphic file (type jpg)
 <use figuras/exemplo-1.jpg>
-Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 118.
+Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 116.
 (pdftex.def)             Requested size: 455.24408pt x 303.54382pt.
 
+LaTeX Warning: Citation `UFC2012' on page 23 undefined on input line 116.
 
-LaTeX Warning: Citation `UFC2012' on page 23 undefined on input line 118.
 
-
-Overfull \hbox (4.99997pt too wide) in paragraph at lines 118--119
+Overfull \hbox (4.99997pt too wide) in paragraph at lines 116--117
  []$[]$ 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figuras/sondas.png, id=379, 658.71094pt x 590.95781pt>
-File: figuras/sondas.png Graphic file (type png)
-<use figuras/sondas.png>
-Package pdftex.def Info: figuras/sondas.png  used on input line 138.
-(pdftex.def)             Requested size: 398.33858pt x 357.37277pt.
-File: figuras/sondas.png Graphic file (type png)
-<use figuras/sondas.png>
-Package pdftex.def Info: figuras/sondas.png  used on input line 138.
-(pdftex.def)             Requested size: 398.33858pt x 357.37277pt.
-
-LaTeX Warning: Citation `NASA2016' on page 23 undefined on input line 138.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [23]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
+<figuras/sondas.png, id=357, 658.71094pt x 590.95781pt>
+File: figuras/sondas.png Graphic file (type png)
+<use figuras/sondas.png>
+Package pdftex.def Info: figuras/sondas.png  used on input line 136.
+(pdftex.def)             Requested size: 398.33858pt x 357.37277pt.
+File: figuras/sondas.png Graphic file (type png)
+<use figuras/sondas.png>
+Package pdftex.def Info: figuras/sondas.png  used on input line 136.
+(pdftex.def)             Requested size: 398.33858pt x 357.37277pt.
+
+
+LaTeX Warning: Citation `NASA2016' on page 24 undefined on input line 136.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24 <./figuras/exemplo-1.jpg>] [25 <./figuras/sondas.png>]
+[24 <./figuras/exemplo-1.jpg>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./figuras/sondas.png>]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (2-textuais/3-metodologia.tex [26]
+ [26]) (2-textuais/3-metodologia.tex [27]
 Cap\'{\i }tulo 3.
-[27
+[28
 
-] [28] [29]) (2-textuais/4-resultados.tex [30]
+] [29] [30]) (2-textuais/4-resultados.tex [31]
 Cap\'{\i }tulo 4.
-<figuras/tensaoimpedanciahumana.png, id=457, 752.8125pt x 436.63126pt>
+<figuras/tensaoimpedanciahumana.png, id=435, 752.8125pt x 436.63126pt>
 File: figuras/tensaoimpedanciahumana.png Graphic file (type png)
 <use figuras/tensaoimpedanciahumana.png>
 Package pdftex.def Info: figuras/tensaoimpedanciahumana.png  used on input line 19.
@@ -1459,7 +1460,7 @@ Overfull \hbox (11.79996pt too wide) in paragraph at lines 19--20
  []$[]$ 
  []
 
-<figuras/figura-3.png, id=458, 429.10312pt x 240.9pt>
+<figuras/figura-3.png, id=436, 429.10312pt x 240.9pt>
 File: figuras/figura-3.png Graphic file (type png)
 <use figuras/figura-3.png>
 Package pdftex.def Info: figuras/figura-3.png  used on input line 31.
@@ -1476,23 +1477,23 @@ Overfull \hbox (11.79996pt too wide) in paragraph at lines 31--32
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31
+[32
 
- <./figuras/tensaoimpedanciahumana.png>] [32 <./figuras/figura-3.png>]) (2-textuais/5-conclusao.tex [33]
+ <./figuras/tensaoimpedanciahumana.png>] [33 <./figuras/figura-3.png>]) (2-textuais/5-conclusao.tex [34]
 Cap\'{\i }tulo 5.
-) (documento.bbl [34
+) (documento.bbl [35
 
 ]
 bibitemlist
-[35
+[36
 
-]) [36] (3-pos-textuais/apendices/apendice-a.tex
+]) [37] (3-pos-textuais/apendices/apendice-a.tex
 \bfseries AP\^ENDICE A.
-) (3-pos-textuais/apendices/apendice-b.tex [37
+) (3-pos-textuais/apendices/apendice-b.tex [38
 
 ]
 \bfseries AP\^ENDICE B.
-) (3-pos-textuais/apendices/apendice-c.tex [38
+) (3-pos-textuais/apendices/apendice-c.tex [39
 
 ]
 \bfseries AP\^ENDICE C.
@@ -1504,14 +1505,14 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 ) (figuras/main.cpp) (C:\Users\kauan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-)) (3-pos-textuais/apendices/apendice-d.tex [39
+)) (3-pos-textuais/apendices/apendice-d.tex [40
 
 ]
 \bfseries AP\^ENDICE D.
 
 
 pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<3-pos-textuais/apendices/PID4416093.pdf, id=530, 614.295pt x 794.97pt>
+<3-pos-textuais/apendices/PID4416093.pdf, id=506, 614.295pt x 794.97pt>
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf  used on input line 7.
@@ -1522,7 +1523,7 @@ pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF i
 
 
 pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<3-pos-textuais/apendices/PID4416093.pdf, id=532, page=1, 614.295pt x 794.97pt>
+<3-pos-textuais/apendices/PID4416093.pdf, id=508, page=1, 614.295pt x 794.97pt>
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
@@ -1531,7 +1532,7 @@ File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[40
+[41
 
 ]
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
@@ -1546,20 +1547,20 @@ File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [41
+ [42
 
  <./3-pos-textuais/apendices/PID4416093.pdf>]) (3-pos-textuais/anexos/anexo-a.tex
 \bfseries ANEXO A.
-) (3-pos-textuais/anexos/anexo-b.tex [42
+) (3-pos-textuais/anexos/anexo-b.tex [43
 
 ]
 \bfseries ANEXO B.
-<3-pos-textuais/anexos/Sikasil.pdf, id=571, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=547, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf  used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<3-pos-textuais/anexos/Sikasil.pdf, id=573, page=1, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=549, page=1, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
@@ -1568,7 +1569,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-[43
+[44
 
 ]
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
@@ -1583,10 +1584,10 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [44
+ [45
 
  <./3-pos-textuais/anexos/Sikasil.pdf>]
-<3-pos-textuais/anexos/Sikasil.pdf, id=593, page=2, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=569, page=2, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
@@ -1599,7 +1600,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [45
+ [46
 
  <./3-pos-textuais/anexos/Sikasil.pdf>])
 No file documento.ind.
@@ -1626,11 +1627,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35327 strings out of 467871
- 637690 string characters out of 5418376
- 1467981 words of memory out of 5000000
- 63187 multiletter control sequences out of 15000+600000
- 692979 words of font info for 311 fonts, out of 8000000 for 9000
+ 35296 strings out of 467871
+ 637224 string characters out of 5418376
+ 1467352 words of memory out of 5000000
+ 63165 multiletter control sequences out of 15000+600000
+ 692725 words of font info for 307 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,20n,120p,2538b,1494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -1649,9 +1650,9 @@ pdfTeX warning (dest): name{glo:TEST} has been referenced but does not exist, re
 pdfTeX warning (dest): name{glo:ABNT} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (46 pages, 1556443 bytes).
+Output written on documento.pdf (47 pages, 1551389 bytes).
 PDF statistics:
- 852 PDF objects out of 1000 (max. 8388607)
- 171 named destinations out of 1000 (max. 500000)
+ 827 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
  67933 words of extra memory for PDF output out of 74296 (max. 10000000)
 

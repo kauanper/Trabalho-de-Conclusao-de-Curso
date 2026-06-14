@@ -36,25 +36,12 @@ ISSN 2525-4863.}
   associa{\c{c}}{\~a}o de apicultores em cari{\'u}s-ce.
 \textbf{Research, Society and Development}, v.~9, n.~7, p. e932974913, 2020.}
 
-\bibitem[Beck 2002]{beck2002}
-\abntrefinfo{Beck}{BECK}{2002}
-{BECK, K. \textbf{Test-Driven Development: By Example}. [S.l.]: Addison-Wesley
-  Professional, 2002.}
-
 \bibitem[Bertolin \textit{et al.} 2008]{bertolin2008}
 \abntrefinfo{Bertolin \textit{et al.}}{BERTOLIN \textit{et al.}}{2008}
 {BERTOLIN, R.~V.; SANTOS, A. C.~d.; LIMA, J. B.~d.; BRAGA, M.~J. Assimetria de
   informação e confiança em interações cooperativas.
 \textbf{Revista de Administração Contemporânea}, v.~12, n.~1, p. 59--81,
   2008.}
-
-\bibitem[Calais e Franzini 2023]{calais2023}
-\abntrefinfo{Calais e Franzini}{CALAIS; FRANZINI}{2023}
-{CALAIS, P.; FRANZINI, L. Test-driven development benefits beyond design
-  quality: Flow state and developer experience.
-\textbf{ICSE NIER}, 2023.
-Dispon{\'\i}vel em:
-  \url{https://homepages.dcc.ufmg.br/~pcalais/papers/tdd-flow-icse-nier-2023.pdf}.}
 
 \bibitem[Candeias \textit{et al.} 2025]{candeias2025}
 \abntrefinfo{Candeias \textit{et al.}}{CANDEIAS \textit{et al.}}{2025}
@@ -114,11 +101,6 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
   evid{\^e}ncias bibliom{\'e}tricas. In:  \textbf{X Congresso Internacional das
   Ci{\^e}ncias Agr{\'a}rias (COINTER PDVAgro 2025)}. [S.l.: s.n.], 2025.}
 
-\bibitem[Martin 2009]{martin2009}
-\abntrefinfo{Martin}{MARTIN}{2009}
-{MARTIN, R.~C. \textbf{Clean Code: A Handbook of Agile Software Craftsmanship}.
-  [S.l.]: Prentice Hall, 2009.}
-
 \bibitem[Müller \textit{et al.} 2024]{muller2024adopting}
 \abntrefinfo{Müller \textit{et al.}}{MüLLER \textit{et al.}}{2024}
 {MüLLER, L.~S.; NOHE, C.; REINERS, S.; BECKER, J.; HERTEL, G. Adopting
@@ -152,12 +134,6 @@ Monografia (Trabalho de Conclusão de Curso (Bacharelado em Ciências
   benefícios}. 2022.
 Acesso em: 20 maio 2026.
 Dispon{\'\i}vel em: \url{https://conceito.de/associativismo}.}
-
-\bibitem[Valente 2026]{valente2026}
-\abntrefinfo{Valente}{VALENTE}{2026}
-{VALENTE, M.~T. \textbf{Fundamentos de Manutenção de Software}. [S.l.]:
-  Editora Independente, 2026. Disponível em: Fundamentos de Manutenção de
-  Software.}
 
 \bibitem[Veras 2025]{veras2025}
 \abntrefinfo{Veras}{VERAS}{2025}
