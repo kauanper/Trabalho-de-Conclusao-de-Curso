@@ -36,12 +36,25 @@ ISSN 2525-4863.}
   associa{\c{c}}{\~a}o de apicultores em cari{\'u}s-ce.
 \textbf{Research, Society and Development}, v.~9, n.~7, p. e932974913, 2020.}
 
+\bibitem[Beck 2002]{beck2002}
+\abntrefinfo{Beck}{BECK}{2002}
+{BECK, K. \textbf{Test-Driven Development: By Example}. [S.l.]: Addison-Wesley
+  Professional, 2002.}
+
 \bibitem[Bertolin \textit{et al.} 2008]{bertolin2008}
 \abntrefinfo{Bertolin \textit{et al.}}{BERTOLIN \textit{et al.}}{2008}
 {BERTOLIN, R.~V.; SANTOS, A. C.~d.; LIMA, J. B.~d.; BRAGA, M.~J. Assimetria de
   informação e confiança em interações cooperativas.
 \textbf{Revista de Administração Contemporânea}, v.~12, n.~1, p. 59--81,
   2008.}
+
+\bibitem[Calais e Franzini 2023]{calais2023}
+\abntrefinfo{Calais e Franzini}{CALAIS; FRANZINI}{2023}
+{CALAIS, P.; FRANZINI, L. Test-driven development benefits beyond design
+  quality: Flow state and developer experience.
+\textbf{ICSE NIER}, 2023.
+Dispon{\'\i}vel em:
+  \url{https://homepages.dcc.ufmg.br/~pcalais/papers/tdd-flow-icse-nier-2023.pdf}.}
 
 \bibitem[Candeias \textit{et al.} 2025]{candeias2025}
 \abntrefinfo{Candeias \textit{et al.}}{CANDEIAS \textit{et al.}}{2025}
@@ -69,6 +82,13 @@ ISBN 978-65-5621-546-4.}
 Trabalho de Conclus{\~a}o de Curso (Bacharelado em Ci{\^e}ncia da
   Computa{\c{c}}{\~a}o) --- Universidade Federal de Alfenas, Alfenas, MG,
   2021.}
+
+\bibitem[Fowler 2023]{fowler2023}
+\abntrefinfo{Fowler}{FOWLER}{2023}
+{FOWLER, M. \textbf{Test Driven Development}. 2023.
+Acesso em: 13 jun. 2026.
+Dispon{\'\i}vel em:
+  \url{https://martinfowler.com/bliki/TestDrivenDevelopment.html}.}
 
 \bibitem[{International Organization for Standardization} 2011]{iso25010}
 \abntrefinfo{{International Organization for Standardization}}{{International
@@ -109,6 +129,13 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 \textbf{Behaviour \& Information Technology}, v.~43, n.~6, p. 1096--1128,
   2024.}
 
+\bibitem[Netto e Santos 2025]{netto2025}
+\abntrefinfo{Netto e Santos}{NETTO; SANTOS}{2025}
+{NETTO, V. de P.; SANTOS, P.~C. dos. Engenharia de requisitos: Processo
+  essencial para o sucesso de projetos de software. In:  \textbf{Anais da 17ª
+  Jornada Científica e Tecnológica do IFSULDEMINAS (JOSIF 2025)}. Muzambinho,
+  MG: [s.n.], 2025.}
+
 \bibitem[Pereira 2025]{pereira2025}
 \abntrefinfo{Pereira}{PEREIRA}{2025}
 {PEREIRA, A. D. d.~S.
@@ -117,6 +144,13 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 Monografia (Trabalho de Conclusão de Curso (Bacharelado em Ciências
   Contábeis)) --- Universidade Federal do Rio Grande do Norte (UFRN), Caicó,
   2025.}
+
+\bibitem[Santos e Diniz 2025]{santos2025}
+\abntrefinfo{Santos e Diniz}{SANTOS; DINIZ}{2025}
+{SANTOS, J. P.~F. dos; DINIZ, D.~P. A importância dos testes automatizados no
+  ciclo de vida de um software.
+\textbf{RECA - Revista Eletrônica de Computação Aplicada}, v.~6, n.~2, p.
+  69--85, 2025.}
 
 \bibitem[Singer 2002]{singer2002}
 \abntrefinfo{Singer}{SINGER}{2002}
@@ -127,6 +161,11 @@ Monografia (Trabalho de Conclusão de Curso (Bacharelado em Ciências
 \abntrefinfo{Sommerville}{SOMMERVILLE}{2019}
 {SOMMERVILLE, I. \textbf{Engenharia de Software}. 10. ed. São Paulo: Pearson
   Education do Brasil, 2019.}
+
+\bibitem[Sommerville e Sawyer 1997]{sommerville1997}
+\abntrefinfo{Sommerville e Sawyer}{SOMMERVILLE; SAWYER}{1997}
+{SOMMERVILLE, I.; SAWYER, P. \textbf{Requirements Engineering: A Good Practice
+  Guide}. Chichester, UK: John Wiley \& Sons, 1997.}
 
 \bibitem[Sousa 2022]{sousa2022}
 \abntrefinfo{Sousa}{SOUSA}{2022}
