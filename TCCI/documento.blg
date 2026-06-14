@@ -17,9 +17,9 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: 3-pos-textuais/referencias.bib
 Warning--entry type for "sousa2022" isn't style-file defined
---line 128 of file 3-pos-textuais/referencias.bib
+--line 97 of file 3-pos-textuais/referencias.bib
 Warning--entry type for "aprova2025" isn't style-file defined
---line 156 of file 3-pos-textuais/referencias.bib
+--line 183 of file 3-pos-textuais/referencias.bib
 Warning--I didn't find a database entry for "sommerville2011"
 Warning--I didn't find a database entry for "UFC2012"
 Warning--I didn't find a database entry for "NASA2016"
