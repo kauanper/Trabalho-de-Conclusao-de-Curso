@@ -21,7 +21,6 @@ Warning--entry type for "sousa2022" isn't style-file defined
 Warning--entry type for "aprova2025" isn't style-file defined
 --line 156 of file 3-pos-textuais/referencias.bib
 Warning--I didn't find a database entry for "sommerville2011"
-Warning--I didn't find a database entry for "feitosa2016"
 Warning--I didn't find a database entry for "UFC2012"
 Warning--I didn't find a database entry for "NASA2016"
 Reallocating 'singl_function' (item size: 4) to 100 items.
@@ -35,7 +34,7 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 +---------------------------------------------------------+
 You've used 24 entries,
             6714 wiz_defined-function locations,
-            1330 strings with 13806 characters,
+            1329 strings with 13795 characters,
 and the built_in function-call counts, 18875 in all, are:
 = -- 1609
 > -- 568
@@ -74,4 +73,4 @@ warning$ -- 0
 while$ -- 136
 width$ -- 0
 write$ -- 313
-(There were 6 warnings)
+(There were 5 warnings)
