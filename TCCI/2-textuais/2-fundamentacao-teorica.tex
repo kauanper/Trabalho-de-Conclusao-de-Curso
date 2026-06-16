@@ -53,7 +53,7 @@ Diante disso, torna-se importante discutir a confiabilidade dos sistemas de info
 
 Portanto, em organizações nas quais a transparência e a confiança são elementos fundamentais, a confiabilidade do software deixa de ser apenas uma questão técnica e passa a contribuir diretamente para a sustentação dos processos organizacionais \cite{aguiar2026, aprova2025}. Para que isso seja possível, é necessário que o desenvolvimento do sistema seja conduzido por práticas capazes de garantir a qualidade do produto desde as etapas iniciais do projeto \cite{sommerville2019}.
 
-\section{Engenharia de Software e TDD}\label{sec:citacoes}
+\section{Engenharia de Software}\label{sec:citacoes}
 
 Diante da necessidade de assegurar a confiabilidade dos sistemas de informação utilizados em contextos de organizações associativas, surge o desafio de incorporar essa característica ao processo de desenvolvimento do software \cite{sommerville2019}. Nesse sentido, a Engenharia de Software surge como uma área dedicada à aplicação de métodos, técnicas e processos voltados ao desenvolvimento sistemático de software \cite{sommerville2019}. Sua adoção torna-se especialmente relevante no contexto deste trabalho, uma vez que o sistema desenvolvido tem como objetivo integrar os processos internos da Associação dos Apicultores, apoiando atividades de gestão, comunicação e compartilhamento de informações entre seus membros \cite{aguiar2026}.
 
@@ -63,20 +63,15 @@ Nesse contexto, a Engenharia de Requisitos desempenha um papel fundamental, send
 
 Uma vez definidos e validados os requisitos, torna-se necessário garantir que o sistema desenvolvido esteja em conformidade com aquilo que foi especificado. Para isso, a Engenharia de Software se apoia em atividades de verificação e validação, cujo propósito é avaliar tanto a correção do produto desenvolvido quanto sua aderência às necessidades dos usuários. Essas atividades permitem identificar inconsistências e defeitos ainda durante o processo de desenvolvimento, reduzindo a probabilidade de falhas após a implantação do sistema \cite{sommerville2019}.
 
-Entre as práticas associadas à verificação e validação, destacam-se os testes de software, que consistem na execução controlada do sistema com o objetivo de identificar defeitos e verificar seu comportamento frente a diferentes entradas e cenários de utilização \cite{santos2025,sommerville2019}. Os testes desempenham um papel central na construção de sistemas confiáveis, uma vez que fornecem evidências sobre a qualidade do software e sua capacidade de atender aos requisitos previamente estabelecidos \cite{santos2025,sommerville2019}.
+Entre as práticas associadas à verificação e validação, destacam-se os testes de software, que consistem na execução controlada do sistema com o objetivo de identificar defeitos e verificar seu comportamento frente a diferentes entradas e cenários de utilização. Os testes desempenham um papel central na construção de sistemas confiáveis, uma vez que fornecem evidências sobre a qualidade do software e sua capacidade de atender aos requisitos previamente estabelecidos \cite{santos2025,sommerville2019}.
 
-Nesse contexto, diversas abordagens foram propostas para integrar os testes de forma mais efetiva ao processo de desenvolvimento. Entre elas, destaca-se o Test-Driven Development (TDD), metodologia que propõe a elaboração dos testes antes da implementação das funcionalidades \cite{beck2002, fowler2023}. Nessa abordagem, o desenvolvimento é conduzido por ciclos curtos e iterativos, conhecidos como \textit{Red-Green-Refactor}, nos quais um teste é inicialmente criado para representar um comportamento esperado e executado de modo a falhar (\textit{Red}), seguido pela implementação mínima necessária para satisfazê-lo (\textit{Green}) e, posteriormente, pela refatoração do código (\textit{Refactor}) \cite{beck2002, fowler2023}. Ao incorporar os testes desde as etapas iniciais do desenvolvimento, o TDD favorece a identificação precoce de defeitos e a validação contínua do comportamento do sistema, contribuindo para a construção de softwares mais robustos e confiáveis \cite{beck2002, calais2023, santos2025}.
+\section{Test-Driven Development}\label{sec:citacoes}
 
+Nesse cenário de busca por maior confiabilidade, a antecipação das atividades de verificação e validação (V\&V) tem se mostrado uma estratégia fundamental. Historicamente, modelos tradicionais de desenvolvimento tendiam a postergar a execução dos testes para as fases finais do ciclo de vida, elevando significativamente os custos e o impacto da correção de defeitos \cite{sommerville2019}. Em contraponto a essa visão reativa, abordagens modernas propõem a integração contínua da qualidade ao longo de todo o processo de construção. É nesse contexto de antecipação da verificação que se destaca o \textit{Test-Driven Development} (TDD) \cite{beck2002, fowler2023}.
 
+O TDD atua como uma materialização técnica da verificação contínua, invertendo a lógica tradicional ao exigir que os testes sejam elaborados antes mesmo da implementação da funcionalidade \cite{beck2002}. Nessa metodologia, o desenvolvimento é conduzido por ciclos curtos e iterativos, conhecidos como \textit{Red-Green-Refactor}. Inicialmente, um teste automatizado é criado para representar um comportamento esperado e executado de modo a falhar (\textit{Red}). Em seguida, realiza-se a implementação mínima necessária para satisfazê-lo (\textit{Green}) e, por fim, a refatoração do código para melhoria de sua estrutura interna, sem alterar seu comportamento externo (\textit{Refactor}) \cite{beck2002, fowler2023}.
 
-
-
-
-
-
-
-
-
+Ao adotar essa dinâmica, o TDD transcende a simples execução de testes, consolidando-se como uma rigorosa técnica de \textit{design} de software. O ato de escrever o teste previamente obriga o desenvolvedor a refletir sobre os requisitos e a arquitetura do componente antes de sua construção, garantindo que o produto já nasça alinhado às especificações (verificação). Para o sistema de automação de processos da Associação dos Apicultores de Poranga, a adoção do TDD justifica-se fortemente pela necessidade de garantir a integridade de regras de negócio cruciais para a entidade. Ao incorporar os testes desde a concepção de cada funcionalidade, o TDD favorece a identificação precoce de defeitos e gera uma documentação viva do comportamento do sistema, contribuindo de forma direta para a construção de um software manutenível e altamente confiável \cite{calais2023, santos2025}.
 
 
 
