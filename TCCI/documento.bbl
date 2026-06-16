@@ -48,13 +48,12 @@ ISSN 2525-4863.}
 \textbf{Revista de Administração Contemporânea}, v.~12, n.~1, p. 59--81,
   2008.}
 
-\bibitem[Calais e Franzini 2023]{calais2023}
-\abntrefinfo{Calais e Franzini}{CALAIS; FRANZINI}{2023}
-{CALAIS, P.; FRANZINI, L. Test-driven development benefits beyond design
-  quality: Flow state and developer experience.
-\textbf{ICSE NIER}, 2023.
-Dispon{\'\i}vel em:
-  \url{https://homepages.dcc.ufmg.br/~pcalais/papers/tdd-flow-icse-nier-2023.pdf}.}
+\bibitem[Buchan \textit{et al.} 2011]{buchan2011}
+\abntrefinfo{Buchan \textit{et al.}}{BUCHAN \textit{et al.}}{2011}
+{BUCHAN, J.; LI, L.; MACDONELL, S.~G. Causal factors, benefits and challenges
+  of test-driven development: Practitioner perceptions. In:  IEEE. \textbf{2011
+  18th Asia-Pacific Software Engineering Conference}. [S.l.], 2011. p.
+  405--413.}
 
 \bibitem[Candeias \textit{et al.} 2025]{candeias2025}
 \abntrefinfo{Candeias \textit{et al.}}{CANDEIAS \textit{et al.}}{2025}
@@ -116,6 +115,14 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
   antecedents, and outcomes.
 \textbf{Behaviour \& Information Technology}, v.~43, n.~6, p. 1096--1128,
   2024.}
+
+\bibitem[Nagappan \textit{et al.} 2008]{nagappan2008}
+\abntrefinfo{Nagappan \textit{et al.}}{NAGAPPAN \textit{et al.}}{2008}
+{NAGAPPAN, N.; MAXIMILIEN, E.~M.; BHAT, T.; WILLIAMS, L. Realizing quality
+  improvement through test driven development: results and experiences of four
+  industrial teams.
+\textbf{Empirical Software Engineering}, Springer, v.~13, n.~3, p. 289--302,
+  2008.}
 
 \bibitem[Netto e Santos 2025]{netto2025}
 \abntrefinfo{Netto e Santos}{NETTO; SANTOS}{2025}

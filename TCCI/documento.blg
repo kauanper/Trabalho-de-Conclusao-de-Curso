@@ -32,45 +32,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 28 entries,
+You've used 29 entries,
             6714 wiz_defined-function locations,
-            1348 strings with 14418 characters,
-and the built_in function-call counts, 24024 in all, are:
-= -- 2215
-> -- 657
-< -- 269
-+ -- 531
-- -- 201
-* -- 1585
-:= -- 3102
-add.period$ -- 82
-call.type$ -- 30
-change.case$ -- 243
-chr.to.int$ -- 63
-cite$ -- 23
-duplicate$ -- 1608
-empty$ -- 1585
-format.name$ -- 967
-if$ -- 5405
+            1356 strings with 14683 characters,
+and the built_in function-call counts, 24075 in all, are:
+= -- 2102
+> -- 717
+< -- 200
++ -- 481
+- -- 217
+* -- 1628
+:= -- 3121
+add.period$ -- 87
+call.type$ -- 31
+change.case$ -- 263
+chr.to.int$ -- 67
+cite$ -- 24
+duplicate$ -- 1457
+empty$ -- 1689
+format.name$ -- 1056
+if$ -- 5543
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 468
-newline$ -- 125
-num.names$ -- 115
-pop$ -- 549
+missing$ -- 490
+newline$ -- 128
+num.names$ -- 120
+pop$ -- 576
 preamble$ -- 1
-purify$ -- 102
+purify$ -- 108
 quote$ -- 0
-skip$ -- 1944
+skip$ -- 1798
 stack$ -- 1
-substring$ -- 905
-swap$ -- 668
-text.length$ -- 25
+substring$ -- 912
+swap$ -- 644
+text.length$ -- 28
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 16
 warning$ -- 0
-while$ -- 162
+while$ -- 173
 width$ -- 0
-write$ -- 370
+write$ -- 390
 (There were 5 warnings)
