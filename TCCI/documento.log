@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  17 JUN 2026 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  17 JUN 2026 00:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1377,30 +1377,30 @@ Package pdftex.def Info: figuras/fluxo_metodologico.png  used on input line 12.
 
 ]
 
-LaTeX Warning: Citation `marcotte2011' on page 25 undefined on input line 28.
+LaTeX Warning: Citation `marcotte2011' on page 25 undefined on input line 27.
 
 [25 <./figuras/fluxo_metodologico.png>]
 
-LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 33.
+LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 32.
 
 
-LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 35.
+LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 34.
 
 
-LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 37.
+LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 36.
 
 
-LaTeX Warning: Citation `north2006' on page 26 undefined on input line 37.
+LaTeX Warning: Citation `north2006' on page 26 undefined on input line 36.
 
 
-LaTeX Warning: Citation `ieee829' on page 26 undefined on input line 44.
+LaTeX Warning: Citation `ieee829' on page 26 undefined on input line 43.
 
 [26]
 
-LaTeX Warning: Citation `cohn2004' on page 27 undefined on input line 52.
+LaTeX Warning: Citation `cohn2004' on page 27 undefined on input line 51.
 
 
-LaTeX Warning: Citation `north2006' on page 27 undefined on input line 52.
+LaTeX Warning: Citation `north2006' on page 27 undefined on input line 51.
 
 [27] [28]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1409,10 +1409,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 90.
+LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 89.
 
 
-LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 92.
+LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 91.
 
 [29]) (2-textuais/4-resultados.tex [30]
 Cap\'{\i }tulo 4.
@@ -1619,7 +1619,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{glo:PDF} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (46 pages, 1074938 bytes).
+Output written on documento.pdf (46 pages, 1074964 bytes).
 PDF statistics:
  808 PDF objects out of 1000 (max. 8388607)
  143 named destinations out of 1000 (max. 500000)
