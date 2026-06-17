@@ -20,6 +20,11 @@ Warning--entry type for "sousa2022" isn't style-file defined
 --line 79 of file 3-pos-textuais/referencias.bib
 Warning--entry type for "aprova2025" isn't style-file defined
 --line 132 of file 3-pos-textuais/referencias.bib
+Warning--I didn't find a database entry for "marcotte2011"
+Warning--I didn't find a database entry for "cohn2004"
+Warning--I didn't find a database entry for "north2006"
+Warning--I didn't find a database entry for "ieee829"
+Warning--I didn't find a database entry for "nielsen1993"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -31,7 +36,7 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 +---------------------------------------------------------+
 You've used 28 entries,
             6714 wiz_defined-function locations,
-            1346 strings with 14410 characters,
+            1351 strings with 14457 characters,
 and the built_in function-call counts, 23377 in all, are:
 = -- 2047
 > -- 685
@@ -70,4 +75,4 @@ warning$ -- 0
 while$ -- 167
 width$ -- 0
 write$ -- 374
-(There were 2 warnings)
+(There were 7 warnings)
