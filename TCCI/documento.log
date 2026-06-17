@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  17 JUN 2026 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  17 JUN 2026 00:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1375,14 +1375,11 @@ Package pdftex.def Info: figuras/fluxo_metodologico.png  used on input line 12.
 (pdftex.def)             Requested size: 364.19667pt x 439.1665pt.
 [24
 
- <./figuras/fluxo_metodologico.png>]
+]
 
-LaTeX Warning: Citation `marcotte2011' on page 25 undefined on input line 26.
+LaTeX Warning: Citation `marcotte2011' on page 25 undefined on input line 28.
 
-[25]
-
-LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 31.
-
+[25 <./figuras/fluxo_metodologico.png>]
 
 LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 33.
 
@@ -1390,17 +1387,20 @@ LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 33.
 LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 35.
 
 
-LaTeX Warning: Citation `north2006' on page 26 undefined on input line 35.
+LaTeX Warning: Citation `cohn2004' on page 26 undefined on input line 37.
 
 
-LaTeX Warning: Citation `ieee829' on page 26 undefined on input line 42.
+LaTeX Warning: Citation `north2006' on page 26 undefined on input line 37.
+
+
+LaTeX Warning: Citation `ieee829' on page 26 undefined on input line 44.
 
 [26]
 
-LaTeX Warning: Citation `cohn2004' on page 27 undefined on input line 50.
+LaTeX Warning: Citation `cohn2004' on page 27 undefined on input line 52.
 
 
-LaTeX Warning: Citation `north2006' on page 27 undefined on input line 50.
+LaTeX Warning: Citation `north2006' on page 27 undefined on input line 52.
 
 [27] [28]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1409,12 +1409,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 88.
-
-
 LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 90.
 
-) (2-textuais/4-resultados.tex [29] [30]
+
+LaTeX Warning: Citation `nielsen1993' on page 29 undefined on input line 92.
+
+[29]) (2-textuais/4-resultados.tex [30]
 Cap\'{\i }tulo 4.
 <figuras/tensaoimpedanciahumana.png, id=458, 752.8125pt x 436.63126pt>
 File: figuras/tensaoimpedanciahumana.png Graphic file (type png)
@@ -1608,20 +1608,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35205 strings out of 467871
- 635574 string characters out of 5418376
- 1467220 words of memory out of 5000000
- 63105 multiletter control sequences out of 15000+600000
- 679084 words of font info for 290 fonts, out of 8000000 for 9000
+ 35216 strings out of 467871
+ 635693 string characters out of 5418376
+ 1467222 words of memory out of 5000000
+ 63107 multiletter control sequences out of 15000+600000
+ 682066 words of font info for 296 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,17n,120p,2538b,1494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{glo:PDF} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (46 pages, 1074773 bytes).
+Output written on documento.pdf (46 pages, 1074938 bytes).
 PDF statistics:
  808 PDF objects out of 1000 (max. 8388607)
  143 named destinations out of 1000 (max. 500000)
- 55104 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 59200 words of extra memory for PDF output out of 61914 (max. 10000000)
 
