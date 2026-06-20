@@ -3,7 +3,7 @@
 
 Este capítulo descreve a metodologia adotada para o desenvolvimento da aplicação. O processo será estruturado de forma a alinhar as práticas da Engenharia de Software às particularidades do contexto investigado, considerando o perfil dos stakeholders envolvidos, a necessidade de confiabilidade do sistema e a possibilidade de alterações nos requisitos ao longo do projeto. A Figura~\ref{fig:fluxo_metodologico} apresenta uma visão geral das etapas definidas.
 
-A metodologia está organizada em seis etapas principais: (i) elicitação de requisitos por prototipação exploratória, (ii) especificação de requisitos em estrutura ágil, (iii) planejamento dos testes, (iv) modelagem do sistema, (v) desenvolvimento orientado por testes e (vi) avaliação de usabilidade. As seções a seguir detalham cada uma dessas etapas.
+A metodologia está organizada em seis etapas principais: (i) elicitação de requisitos por prototipação exploratória, (ii) especificação de requisitos em estrutura ágil, (iii) planejamento dos testes, (iv) modelagem do sistema, (v) desenvolvimento orientado por testes e (vi) avaliação de usabilidade. As seções a seguir detalham cada uma dessas etapas, sendo o capítulo encerrado pelo cronograma de desenvolvimento do trabalho, apresentado na Seção~\ref{sec:cronogramaTCC}.
 
 \begin{figure}[htb]
   \caption{Fluxo metodológico do trabalho}
@@ -44,7 +44,7 @@ Ademais, como o stakeholder principal permanecerá disponível para consultas du
 
 \section{Planejamento dos Testes}
 
-Após a formalização dos requisitos, será elaborado o \textbf{Plano de Testes}, documento que definirá a estratégia, o escopo, os tipos de teste a serem aplicados e os critérios de qualidade adotados no projeto \cite{ieee829}. A elaboração do plano nessa etapa, antes do início da implementação, está alinhada aos princípios do Modelo V de desenvolvimento de software, segundo o qual cada fase de construção possui uma fase de verificação correspondente, e o planejamento dessas verificações deve ocorrer em paralelo ao planejamento da construção \cite{sommerville2019}.
+Após a formalização dos requisitos, será elaborado o \textbf{Plano de Testes}, documento responsável por definir a estratégia, o escopo, os tipos de teste previstos e os critérios de qualidade adotados no projeto \cite{ieee829}. Sua elaboração nesta etapa, anterior ao início da implementação, está alinhada aos princípios do Modelo V de desenvolvimento de software, segundo o qual cada fase de construção possui uma fase de verificação correspondente, cujo planejamento deve ocorrer em paralelo às atividades de desenvolvimento \cite{sommerville2019}. Dessa forma, o plano estabelecerá inicialmente as diretrizes gerais e os critérios de validação derivados dos requisitos, podendo ser detalhado e refinado à medida que a implementação da aplicação evoluir.
 
 No contexto deste trabalho, serão definidos os seguintes tipos de teste:
 
@@ -100,8 +100,9 @@ A avaliação será conduzida por meio de \textbf{Testes de Usabilidade com Usu�
 Os resultados serão analisados qualitativamente, identificando os principais pontos de dificuldade encontrados pelos usuários e as melhorias necessárias. Problemas de usabilidade identificados nessa etapa serão devidamente priorizados e, quando possível, corrigidos antes da entrega final do sistema.
 
 \section{Cronograma}
+\label{sec:cronogramaTCC}
  
-O desenvolvimento deste trabalho seguirá o cronograma apresentado na Tabela~\ref{tab:cronograma}. A elicitação de requisitos por meio da prototipação exploratória teve início em 15 de junho de 2026, etapa que se estende até a finalização da especificação dos requisitos, do plano de testes e da modelagem do sistema, previstas para o mês de julho. O planejamento dos testes ocorrerá em conjunto com essas duas últimas etapas, uma vez que decorre diretamente dos critérios de aceitação definidos na especificação e antecede as decisões de modelagem, em conformidade com os princípios do Modelo V adotados neste trabalho. Em seguida, a implementação do sistema, conduzida por meio do TDD, está prevista para ocupar os meses de agosto e setembro. Por fim, os meses de outubro e novembro serão dedicados à escrita do Trabalho de Conclusão de Curso II, com a defesa prevista para dezembro de 2026.
+O desenvolvimento deste trabalho seguirá o cronograma apresentado na Tabela~\ref{tab:cronograma}. A elicitação de requisitos por meio da prototipação exploratória teve início em 15 de junho de 2026, etapa que se estende até a finalização da especificação dos requisitos e da modelagem do sistema, previstas para o mês de julho. O plano de testes também tem inicio para o mês de julho, mas por sua natureza vivo também compõe os meses sequentes, agosto e setembro. Em seguida, a implementação do sistema, conduzida por meio do TDD, está prevista para ocupar os meses de agosto e setembro. Por fim, os meses de outubro e novembro serão dedicados à escrita do Trabalho de Conclusão de Curso II, com a defesa prevista para dezembro de 2026.
  
 \begin{table}[htb]
   \caption{Cronograma de desenvolvimento do trabalho}
@@ -117,7 +118,7 @@ O desenvolvimento deste trabalho seguirá o cronograma apresentado na Tabela~\re
     \hline
     Especificação de requisitos & & X & & & & & \\
     \hline
-    Planejamento dos testes & & X & & & & & \\
+    Planejamento dos testes & & X & X & X & & & \\
     \hline
     Modelagem do sistema & & X & & & & & \\
     \hline
