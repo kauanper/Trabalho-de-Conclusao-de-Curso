@@ -20,44 +20,45 @@
 \contentsline {section}{\numberline {3.2}Especificação de Requisitos}{26}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Planejamento dos Testes}{27}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Modelagem do Sistema}{28}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Desenvolvimento Orientado por Testes}{28}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Avaliação de Usabilidade}{29}{section.3.6}%
+\contentsline {section}{\numberline {3.5}Desenvolvimento Orientado por Testes}{29}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Avaliação de Usabilidade}{30}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Cronograma}{31}{section.3.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Resultados}}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Resultados do Experimento A}{31}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Resultados do Experimento B}{32}{section.4.2}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Resultados}}{32}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Resultados do Experimento A}{32}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Resultados do Experimento B}{33}{section.4.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Conclusões e Trabalhos Futuros}}{34}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Conclusões e Trabalhos Futuros}}{35}{chapter.5}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{REFER\^ENCIAS}}{35}{section*.19}%
-\contentsline {chapter}{AP\^ENDICES}{37}{section*.19}%
+\contentsline {chapter}{\MakeTextUppercase []{REFER\^ENCIAS}}{36}{section*.20}%
+\contentsline {chapter}{AP\^ENDICES}{39}{section*.20}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \renewcommand *{\cftappendixname }{\bfseries AP\^ENDICE \space }
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{37}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{39}{appendix.A}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{38}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{40}{appendix.B}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {C}\normalfont Códigos-fontes utilizados para...}{39}{appendix.C}%
+\contentsline {appendix}{\chapternumberline {C}\normalfont Códigos-fontes utilizados para...}{41}{appendix.C}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {D}\normalfont \textit {IEEE CEFC 2016}}{40}{appendix.D}%
-\contentsline {chapter}{ANEXOS}{42}{appendix.D}%
+\contentsline {appendix}{\chapternumberline {D}\normalfont \textit {IEEE CEFC 2016}}{42}{appendix.D}%
+\contentsline {chapter}{ANEXOS}{44}{appendix.D}%
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \renewcommand *{\cftappendixname }{\bfseries ANEXO \space }
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{42}{appendix.anexochapback.1}%
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{44}{appendix.anexochapback.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{43}{appendix.anexochapback.2}%
+\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{45}{appendix.anexochapback.2}%

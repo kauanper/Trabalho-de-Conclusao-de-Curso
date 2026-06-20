@@ -48,6 +48,12 @@ ISSN 2525-4863.}
 \textbf{Revista de Administração Contemporânea}, v.~12, n.~1, p. 59--81,
   2008.}
 
+\bibitem[Booch \textit{et al.} 2005]{booch2005}
+\abntrefinfo{Booch \textit{et al.}}{BOOCH \textit{et al.}}{2005}
+{BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. \textbf{The Unified Modeling Language
+  User Guide}. 2. ed. Boston: Addison-Wesley, 2005.
+ISBN 0-321-26797-4.}
+
 \bibitem[Buchan \textit{et al.} 2011]{buchan2011}
 \abntrefinfo{Buchan \textit{et al.}}{BUCHAN \textit{et al.}}{2011}
 {BUCHAN, J.; LI, L.; MACDONELL, S.~G. Causal factors, benefits and challenges
@@ -62,12 +68,38 @@ ISSN 2525-4863.}
   empíricos}. 2. ed. João Pessoa: Editora do CCTA, 2025.
 ISBN 978-65-5621-546-4.}
 
+\bibitem[Carrizo e Quintanilla 2018]{carrizo2018}
+\abntrefinfo{Carrizo e Quintanilla}{CARRIZO; QUINTANILLA}{2018}
+{CARRIZO, D.; QUINTANILLA, I. Prototyping use as a software requirements
+  elicitation technique: A case study. In:  \textbf{Trends and Applications in
+  Software Engineering (CIMPS 2017)}. [S.l.]: Springer, 2018.  (Advances in
+  Intelligent Systems and Computing, v.~688), p. 335--344.}
+
+\bibitem[Cohn 2004]{cohn2004}
+\abntrefinfo{Cohn}{COHN}{2004}
+{COHN, M. \textbf{User Stories Applied: For Agile Software Development}.
+  Boston: Addison-Wesley Professional, 2004.
+ISBN 0-321-20568-5.}
+
+\bibitem[Fowler 2007]{fowler2007mocks}
+\abntrefinfo{Fowler}{FOWLER}{2007}
+{FOWLER, M. \textbf{Mocks Aren't Stubs}. 2007.
+Acesso em: 18 jun. 2026.
+Dispon{\'\i}vel em:
+  \url{https://martinfowler.com/articles/mocksArentStubs.html}.}
+
 \bibitem[Fowler 2023]{fowler2023}
 \abntrefinfo{Fowler}{FOWLER}{2023}
 {FOWLER, M. \textbf{Test Driven Development}. 2023.
 Acesso em: 13 jun. 2026.
 Dispon{\'\i}vel em:
   \url{https://martinfowler.com/bliki/TestDrivenDevelopment.html}.}
+
+\bibitem[{IEEE Computer Society} 2008]{ieee829}
+\abntrefinfo{{IEEE Computer Society}}{{IEEE Computer Society}}{2008}
+{{IEEE Computer Society}. \textbf{IEEE Standard for Software and System Test
+  Documentation}. 2008.
+IEEE Std 829-2008.}
 
 \bibitem[{International Organization for Standardization} 2011]{iso25010}
 \abntrefinfo{{International Organization for Standardization}}{{International
@@ -123,6 +155,18 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
   Jornada Científica e Tecnológica do IFSULDEMINAS (JOSIF 2025)}. Muzambinho,
   MG: [s.n.], 2025.}
 
+\bibitem[Nielsen 1993]{nielsen1993}
+\abntrefinfo{Nielsen}{NIELSEN}{1993}
+{NIELSEN, J. \textbf{Usability Engineering}. San Francisco: Morgan Kaufmann,
+  1993.
+ISBN 0-12-518406-9.}
+
+\bibitem[North 2006]{north2006}
+\abntrefinfo{North}{NORTH}{2006}
+{NORTH, D. \textbf{Introducing BDD}. 2006.
+Acesso em: 18 jun. 2026.
+Dispon{\'\i}vel em: \url{https://dannorth.net/introducing-bdd/}.}
+
 \bibitem[Pereira 2025]{pereira2025}
 \abntrefinfo{Pereira}{PEREIRA}{2025}
 {PEREIRA, A. D. d.~S.
@@ -168,5 +212,10 @@ Dispon{\'\i}vel em: \url{https://conceito.de/associativismo}.}
   perspectivas}.
 Trabalho de Conclus{\~a}o de Curso (Zootecnia) --- Universidade Federal do
   Maranh{\~a}o, Chapadinha, 2025.}
+
+\bibitem[Wroblewski 2011]{wroblewski2011}
+\abntrefinfo{Wroblewski}{WROBLEWSKI}{2011}
+{WROBLEWSKI, L. \textbf{Mobile First}. New York: A Book Apart, 2011.
+ISBN 978-1-937557-02-7.}
 
 \end{thebibliography}
