@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  25 JUN 2026 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  25 JUN 2026 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1356,8 +1356,19 @@ LaTeX Warning: Citation `usar outra ref' on page 25 undefined on input line 94.
 Cap\'{\i }tulo 3.
 [28
 
-] [29] [30]
-Overfull \hbox (66.34305pt too wide) in paragraph at lines 50--62
+] [29]
+2-textuais/trabalhos-relacionados.tex:36: Misplaced alignment tab character &.
+l.36 ...áticas de Verificação e Validação (V&
+                                                  V) ao implementar o ciclo ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[30]
+Overfull \hbox (66.34305pt too wide) in paragraph at lines 52--64
  [][] 
  []
 
@@ -1527,6 +1538,9 @@ L3 programming layer <2020/03/25>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  35187 strings out of 467871
@@ -1540,7 +1554,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{glo:PDF} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (50 pages, 858244 bytes).
+Output written on documento.pdf (50 pages, 858659 bytes).
 PDF statistics:
  913 PDF objects out of 1000 (max. 8388607)
  165 named destinations out of 1000 (max. 500000)
