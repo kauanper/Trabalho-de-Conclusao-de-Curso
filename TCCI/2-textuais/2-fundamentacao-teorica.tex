@@ -37,7 +37,7 @@ Embora essa estrutura contribua para a eficiência operacional, ela também impl
 
 Esse cenário pode comprometer um dos principais pilares da Economia Solidária: a confiança nas relações internas e nos processos de gestão coletiva \cite{bertolin2008}. Além disso, as ferramentas utilizadas na gestão do empreendimento também desempenham um papel importante na construção dessa confiança, uma vez que são responsáveis por registrar, organizar e disponibilizar informações aos seus membros \cite{aguiar2026, pereira2025}. Para isso, tais ferramentas devem favorecer a transparência, a integridade dos dados e o acesso adequado às informações \cite{aguiar2026, bertolin2008, pereira2025}. 
 
-\section{Confiança em Organizações de Economia Solidária}
+\section{Confiança em Organizações de Economia Solidária} \label{sec:confiança}
 
 A confiança é um elemento essencial para o funcionamento de empreendimentos de Economia Solidária, uma vez que seus membros dependem da atuação conjunta e transparente dos demais participantes para conduzir as atividades coletivas \cite{bertolin2008}. Dessa forma, a confiança organizacional está relacionada à percepção de que as pessoas, os processos e os mecanismos de gestão agirão de maneira correta, transparente e alinhada aos interesses do grupo \cite{candeias2025}.
 
@@ -87,7 +87,7 @@ Entre as técnicas disponíveis para essa avaliação, os \textbf{Testes de Usab
 
 \section{Verificação e Validação de Software}\label{sec:vv}
 
-Contudo, mesmo que as praticas mencionadas anteriormente contribuam para aumentar a qualidade do software desde as fases iniciais de desenvolvimento, ainda é necessário verificar se a implementação atende às especificações estabelecidas e validar se o sistema satisfaz as necessidades dos usuários. Nesse contexto, inserem-se as atividades de Verificação e Validação (V&V), responsáveis por fornecer evidências de que o software foi desenvolvido corretamente e de que atende ao propósito para o qual foi concebido \cite{sommerville2019}.
+Contudo, mesmo que as praticas mencionadas anteriormente contribuam para aumentar a qualidade do software desde as fases iniciais de desenvolvimento, ainda é necessário verificar se a implementação atende às especificações estabelecidas e validar se o sistema satisfaz as necessidades dos usuários. Nesse contexto, inserem-se as atividades de Verificação e Validação (V\&V), responsáveis por fornecer evidências de que o software foi desenvolvido corretamente e de que atende ao propósito para o qual foi concebido \cite{sommerville2019}.
 
 \subsection{Modelo V}
 
@@ -99,7 +99,7 @@ Como mencionado, cada nível de teste está associado a uma etapa específica do
 
 \subsection{Test-Driven Development}
 
-Nesse contexto de aumento da confiabilidade no desenvolvimento de software proporcionado pelas atividades de Verificação e Validação (V&V), a antecipação das atividades de teste tem se mostrado uma estratégia importante. Em modelos tradicionais, os testes costumavam ser realizados apenas nas etapas finais do desenvolvimento, o que aumentava os custos e dificultava a correção de falhas identificadas tardiamente \cite{sommerville2019}. Como alternativa a essa abordagem, surgiram metodologias que buscam incorporar a qualidade durante todo o processo de desenvolvimento. Entre elas, destaca-se o \textit{Test-Driven Development} (TDD) \cite{beck2002, fowler2023}.
+Portanto, as práticas de Verificação e Validação (V\&V) tornam-se essenciais em sistemas que exigem elevado grau de confiabilidade. Como discutido na Seção \ref{sec:confiança}, sistemas destinados ao contexto das organizações de economia solidária precisam assegurar que as funcionalidades implementadas estejam corretas e atendam aos requisitos definidos, uma vez que falhas podem comprometer a confiança dos usuários e o funcionamento da organização. Nesse cenário, além da realização dos diferentes níveis de teste, torna-se importante adotar abordagens que incorporem as atividades de verificação desde as etapas iniciais do desenvolvimento. Entre as metodologias que seguem essa proposta, destaca-se o \textit{Test-Driven Development} (TDD), que introduz os testes como parte do próprio processo de construção do software.
 
 O TDD é uma metodologia que propõe a criação dos testes antes da implementação das funcionalidades. Seu processo é baseado em ciclos curtos conhecidos como \textit{Red-Green-Refactor}. Inicialmente, é criado um teste automatizado que representa o comportamento esperado do sistema e que deve falhar (\textit{Red}). Em seguida, é implementado apenas o código necessário para que esse teste seja aprovado (\textit{Green}). Por fim, o código é reorganizado e melhorado por meio da refatoração, sem alterar seu comportamento (\textit{Refactor}) \cite{beck2002, fowler2023}.
 

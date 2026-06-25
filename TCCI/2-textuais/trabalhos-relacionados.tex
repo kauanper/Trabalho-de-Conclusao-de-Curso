@@ -1,85 +1,67 @@
-\chapter{Trabalhos Relacionados}
-\label{cap:trabalhos-relacionados}
+\chapter{TRABALHOS RELACIONADOS}
+\label{cap:trabalhos_relacionados}
 
-Nesta seção, escreva sobre uma introdução sobre os trabalhos relacionados se eles existirem. Evite começar da seção secundária, ou seja, escreva um texto para introduzir as subseções subsequentes, as quais serão sobre cada trabalho relacionado.
-
-\section{Trabalho Relacionado A}
-\label{sec:trabalho-relacionado-a}
-
-Insira o texto sobre o Trabalho A aqui:
-
-Texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto.
-
-\section{Trabalho Relacionado B}
-\label{sec:trabalho-relacionado-b}
-
-Insira o texto sobre o Trabalho B aqui:
-
-Texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto.
-
-Exemplos de inserção de quadro:
+Neste capítulo são apresentados trabalhos que possuem relação com a proposta desenvolvida, sejam eles voltados à gestão de atividades apícolas, à informatização de associações ou à combinação de ambos os contextos. A Seção 3.1 apresenta o SisFarming, um ecossistema digital voltado à gestão de associações da agricultura familiar. A Seção 3.2 discute o APISAPP, sistema direcionado ao planejamento financeiro de apiários individuais. A Seção 3.3 aborda o Colonymon Web, aplicação voltada ao monitoramento de inspeções apícolas. A Seção 3.4 apresenta um trabalho sobre a informatização de processos administrativos em associações de caráter genérico. Por fim, a Seção 3.5 traz uma análise comparativa entre os trabalhos apresentados e a proposta deste TCC.
 
 
-	\begin{quadro}[h!]	
-		\centering
-		\Caption{\label{qua:exemplo-1} Praesent ex velit, pulvinar at massa vel, fermentum dictum mauris. Ut feugiat accumsan augue}		
-		\UFCqua{}{
-			\begin{tabular}{|c|c|l|l|}
-				\hline
-				Quisque & pharetra & tempus & vulputate \\
-				\hline
-				E1 & Complete coverage by a single transcript & Both  & Complete\\
-				\hline
-				E2 & Complete coverage by more than & Both splice sites & Complete\\
-				\hline
-				E3 & Partial coverage & Both splice sites & Both \\				
-				\hline
-			\end{tabular}
-		}{
-			\Fonte{elaborado pelo autor.}
-		}
-	\end{quadro}
+\section{SisFarming}
+\label{sec:sisfarming}
+
+Aguiar (2026) propõe o SisFarming, um ecossistema digital composto por um sistema desktop voltado à gestão centralizada de associações da agricultura familiar e por um protótipo mobile destinado ao uso direto pelos produtores. O trabalho parte da análise da associação como uma instituição, recorrendo à Teoria da Agência e à Teoria dos Custos de Transação para discutir como a assimetria de informação entre a diretoria e os associados pode comprometer a confiança e a eficiência da gestão coletiva. Entre as funcionalidades oferecidas, destacam-se módulos para o cadastro de produtores e fornecedores, além de planos de contas padronizados que dão suporte à geração de relatórios financeiros e ao registro de logs, voltados à auditoria e à prestação de contas aos associados.
+
+O SisFarming se aproxima da proposta deste trabalho justamente por tratar a associação como uma instituição que precisa de mecanismos de transparência para sustentar a confiança entre seus membros, preocupação que também orienta o desenvolvimento da aplicação voltada à Associação de Apicultores de Poranga. Contudo, Aguiar (2026) relata que o protótipo mobile do sistema não alcançou adoção operacional efetiva entre os produtores, atribuindo essa dificuldade a restrições cognitivas e organizacionais dos usuários frente à ferramenta proposta. Esse resultado reforça a importância de uma elicitação de requisitos conduzida de forma próxima ao público-alvo, o que, no presente trabalho, é endereçado por meio da Prototipação Exploratória, técnica escolhida justamente por se adequar a stakeholders com baixa familiaridade com ferramentas digitais. Além disso, o trabalho de Aguiar (2026) não menciona a adoção do Test-Driven Development ou de qualquer outra prática de verificação automatizada como parte do processo de desenvolvimento, o que distancia sua abordagem da preocupação com a confiabilidade do software defendida neste TCC.
 
 
-	
-	\begin{quadro}[h!]	
-		\centering
-		\Caption{\label{qua:exemplo-2} Duis faucibus, enim quis tincidunt pellentesque}		
-		\UFCqua{}{
-			\begin{tabular}{|c|c|}
-				\hline
-				Quisque & pharetra \\
-				\hline
-				E1 & Complete coverage by a single transcript \\
-				\hline
-				E2 & Complete coverage by more than \\
-				\hline
-				E3 & Partial coverage \\
-				\hline
-				E4 & Partial coverage \\
-				\hline
-				E5 & Partial coverage \\
-				\hline
-				E6 & Partial coverage \\
-				\hline
-				E7 & Partial coverage \\
-				\hline
-			\end{tabular}
-		}{
-			\Fonte{elaborado pelo autor.}
-		}
-	\end{quadro}
+\section{APISAPP}
+\label{sec:apisapp}
+
+Pinto (2016) desenvolveu o APISAPP, uma solução que integra um aplicativo mobile para a coleta de dados em campo a um website de suporte à gestão administrativa do apiário. O sistema foi construído com foco na viabilidade econômica da atividade apícola, oferecendo ferramentas de planejamento financeiro como fluxo de caixa, cálculo de custos de produção e definição do preço de venda do mel. Entre seus diferenciais, destaca-se o caráter educativo do sistema, que disponibiliza planilhas de produção projetada capazes de demonstrar ao apicultor o impacto de novas técnicas sobre a produtividade do apiário, além de permitir o registro de informações zootécnicas, como anomalias nas colônias, substituição de rainhas e alimentação artificial.
+
+Apesar de o APISAPP tratar com profundidade a dimensão financeira da apicultura, sua proposta está centrada no apiário individual, sem abordar os processos de gestão coletiva que caracterizam uma associação. O presente trabalho, por sua vez, tem como foco justamente a automatização dos processos internos da associação, sendo a vulnerabilidade desses processos manuais e informais um dos problemas centrais que motivam o desenvolvimento da solução proposta. Outra diferença relevante está na construção do sistema: o APISAPP foi desenvolvido com o auxílio de ferramentas de baixo código, como Wix e Fábrica de Aplicativos, enquanto este trabalho adota um processo de Engenharia de Software mais robusto, apoiado em tecnologias como Go e Next.js e conduzido pela metodologia TDD, o que tende a resultar em maior controle sobre a qualidade e a confiabilidade do produto final.
 
 
-Texto  texto texto texto texto.
+\section{Colonymon Web}
+\label{sec:colonymon}
 
-%\Gls{ambiguidade}
-%\Gls{braile}
-%\Gls{coerencia}
-%\Gls{dialetos}
-%\Gls{elipse}
-%\Gls{locucao-adjetiva}
-%\Gls{modificadores}
-%\Gls{paronimos}
-%\Gls{sintese}
-%\Gls{borboleta}
+Maciel (2024) desenvolveu o Colonymon Web, uma aplicação web voltada para a visualização e a gestão de dados de inspeções em apicultura, construída sob uma arquitetura cliente-servidor moderna. Entre suas principais contribuições está a padronização do processo de inspeção, viabilizada por um questionário abrangente, elaborado a partir de práticas consagradas na apicultura, que permite capturar informações detalhadas sobre a saúde das colmeias. O sistema também conta com suporte à geolocalização, possibilitando a visualização de apiários e colmeias por meio de mapas integrados, e foi implementado com React e Next.js, priorizando uma interface interativa e de fácil leitura por meio de tabelas personalizadas.
+
+Esse trabalho se aproxima da proposta aqui desenvolvida ao tratar do uso de uma aplicação web para o gerenciamento de atividades apícolas, sobretudo no que diz respeito à organização e à visualização de dados de campo. No entanto, o Colonymon Web está direcionado ao monitoramento biológico das colmeias, sem abordar a dimensão organizacional e a transparência administrativa que caracterizam o contexto de uma associação estruturada pelos princípios da Economia Solidária, foco central deste TCC. Quanto à confiabilidade do software, Maciel (2024) relata que a verificação das funcionalidades do sistema foi conduzida de forma exclusivamente manual, sem a adoção de testes automatizados. Este trabalho, por sua vez, busca justamente suprir essa lacuna ao adotar o ciclo Red-Green-Refactor do TDD como prática central do desenvolvimento, de modo a garantir maior robustez lógica e reduzir a ocorrência de falhas que possam comprometer a confiança dos associados nas informações apresentadas pelo sistema.
+
+
+\section{Gestão de Associações}
+\label{sec:gestao_associacoes}
+
+Oliveira et al. (2021) apresentam o desenvolvimento de um sistema voltado à informatização de atividades administrativas em associações de caráter genérico. O trabalho foi conduzido com base em práticas ágeis, combinando Scrum e programação em pares (XP), e destaca a importância das atividades de verificação e validação ao longo do processo de desenvolvimento. Entre as funcionalidades implementadas, estão o controle de mensalidades, a gestão de membros ativos e inativos e a publicidade das decisões tomadas pela diretoria, atendendo a demandas burocráticas comuns a esse tipo de organização. A arquitetura do sistema é baseada em uma API independente, com persistência de dados em MongoDB e comunicação via JSON.
+
+Esse trabalho se aproxima da proposta aqui desenvolvida por tratar diretamente da informatização de processos administrativos de uma associação, incluindo a preocupação com a publicidade das decisões da diretoria, o que dialoga com a necessidade de transparência discutida neste TCC. Contudo, trata-se de um sistema genérico, que não considera as particularidades da cadeia produtiva apícola nem a realidade dos associados de uma comunidade rural. O presente trabalho, ao contrário, é especializado no contexto da Associação de Apicultores de Poranga, integrando os processos administrativos à realidade produtiva e ao perfil de seus associados. Além disso, enquanto Oliveira et al. (2021) direcionam o sistema para portais administrativos de uso predominantemente web, este TCC adota a abordagem Mobile First, de modo a garantir acessibilidade aos associados que utilizam dispositivos com hardware mais limitado no campo.
+
+
+\section{Análise Comparativa}
+\label{sec:analise_comparativa}
+
+A análise comparativa apresentada nesta seção tem como objetivo situar a proposta deste trabalho frente aos sistemas e estudos discutidos anteriormente, evidenciando os pontos em que cada um contribui para a fundamentação do TCC e as lacunas que a solução aqui desenvolvida busca preencher. Os critérios adotados para a comparação consideram tanto o domínio de aplicação dos trabalhos quanto o rigor do processo de Engenharia de Software empregado em cada um deles, aspectos centrais para a discussão conduzida ao longo deste trabalho.
+
+O Quadro \ref{quadro:comparacao} apresenta a comparação entre os quatro trabalhos relacionados e a proposta deste TCC, segundo os critérios de foco em apicultura, foco em associações, uso de TDD, adoção de testes automatizados, elicitação voltada a usuários com baixa familiaridade digital e abordagem Mobile First.
+
+\begin{table}[htb]
+\caption{Comparação entre os trabalhos relacionados e a proposta deste TCC}
+\label{quadro:comparacao}
+\centering
+\begin{tabular}{lccccc}
+\hline
+\textbf{Critério} & \textbf{SisFarming} & \textbf{APISAPP} & \textbf{Colonymon} & \textbf{Oliveira et al.} & \textbf{Este TCC} \\
+\hline
+Foco em Apicultura & Não & Sim & Sim & Não & Sim \\
+Foco em Associações & Sim & Não & Não & Sim & Sim \\
+Uso de TDD & Não & Não & Não & Não & Sim \\
+Testes Automatizados & Não & Não & Não & Não & Sim \\
+Elicitação p/ Baixa Familiaridade & Não & Não & Não & Não & Sim \\
+Abordagem Mobile First & Parcial & Sim & Não & Não & Sim \\
+\hline
+\end{tabular}
+\legend{Fonte: Elaborado pelo autor.}
+\end{table}
+
+Quanto à relevância de cada trabalho para a fundamentação deste TCC, adotou-se uma escala de 1 a 5, de modo a indicar o grau de contribuição de cada um para a construção da proposta aqui apresentada. O SisFarming recebe nota 5, por ser o trabalho mais próximo da proposta em termos organizacionais, tratando diretamente da assimetria de informação e da confiança dentro de associações, ainda que sem o rigor de testes adotado neste TCC. O APISAPP recebe nota 4, contribuindo principalmente como referência para a dimensão financeira da apicultura, mesmo que seu foco individual e sua construção em ferramentas de baixo código o distanciem do contexto associativo e do rigor técnico aqui propostos. O Colonymon Web recebe nota 4, por se tratar da referência tecnológica mais próxima ao domínio da apicultura entre os trabalhos analisados, ainda que limitado ao monitoramento biológico das colmeias. Por fim, o trabalho de Oliveira et al. (2021) recebe nota 4, servindo como principal referência em Engenharia de Software aplicada à gestão de associações, apesar de seu caráter genérico, que não contempla as particularidades da cadeia apícola.
+
+De modo geral, observa-se que os trabalhos analisados abordam, de forma isolada, ou a dimensão da apicultura, ou a dimensão organizacional das associações, sem que nenhum deles combine essas duas perspectivas a um processo de desenvolvimento orientado pela confiabilidade do software. A principal lacuna identificada está na ausência de uma metodologia de desenvolvimento rigorosa, como o TDD, aplicada ao contexto da Economia Solidária. Enquanto os trabalhos relacionados priorizam funcionalidades específicas ou metodologias ágeis de forma mais geral, este TCC propõe o uso do TDD como garantia de que o software desenvolvido seja capaz de sustentar os laços de confiança mútua necessários à continuidade da Associação de Apicultores de Poranga.

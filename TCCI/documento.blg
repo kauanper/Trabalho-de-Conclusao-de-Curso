@@ -1,6 +1,10 @@
 This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: documento.aux
+White space in argument---line 161 of file documento.aux
+ : \citation{usar
+ :                outra ref}
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 Reallocating 'name_of_file' (item size: 1) to 12 items.
@@ -29,45 +33,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 36 entries,
+You've used 35 entries,
             6714 wiz_defined-function locations,
-            1393 strings with 15352 characters,
-and the built_in function-call counts, 30800 in all, are:
-= -- 2756
-> -- 851
-< -- 297
-+ -- 621
-- -- 259
-* -- 2031
-:= -- 3984
-add.period$ -- 120
-call.type$ -- 38
-change.case$ -- 317
-chr.to.int$ -- 80
-cite$ -- 31
-duplicate$ -- 2006
-empty$ -- 2159
-format.name$ -- 1255
-if$ -- 7039
+            1387 strings with 15099 characters,
+and the built_in function-call counts, 29719 in all, are:
+= -- 2683
+> -- 801
+< -- 293
++ -- 601
+- -- 245
+* -- 1939
+:= -- 3848
+add.period$ -- 117
+call.type$ -- 37
+change.case$ -- 301
+chr.to.int$ -- 76
+cite$ -- 30
+duplicate$ -- 1954
+empty$ -- 2095
+format.name$ -- 1180
+if$ -- 6787
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 623
-newline$ -- 163
-num.names$ -- 155
-pop$ -- 749
+missing$ -- 603
+newline$ -- 158
+num.names$ -- 150
+pop$ -- 727
 preamble$ -- 1
-purify$ -- 131
+purify$ -- 126
 quote$ -- 0
-skip$ -- 2338
+skip$ -- 2283
 stack$ -- 1
-substring$ -- 1167
-swap$ -- 860
-text.length$ -- 32
+substring$ -- 1117
+swap$ -- 828
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 13
 warning$ -- 0
-while$ -- 220
+while$ -- 211
 width$ -- 0
-write$ -- 496
-(There were 2 warnings)
+write$ -- 478
+(There was 1 error message)
