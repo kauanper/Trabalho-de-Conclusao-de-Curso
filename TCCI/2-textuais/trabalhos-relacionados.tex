@@ -38,7 +38,7 @@ Apesar dessa diferença de fundamentação teórica, o SisFarming aproxima-se da
 
 Oliveira et al. (2021) apresentam o desenvolvimento de um sistema voltado à informatização de atividades administrativas em associações de caráter genérico. O trabalho destaca-se por ser uma aplicação prática da Engenharia de Software, fundamentada no uso de metodologias ágeis como Scrum e Extreme Programming (XP). Os autores enfatizam o uso da técnica de programação em pares, uma prática central do XP, como estratégia para promover a colaboração entre os desenvolvedores e contribuir para a qualidade do software em ambientes de desenvolvimento acadêmico. Em termos de arquitetura, o sistema utiliza uma API independente, persistência de dados em MongoDB e comunicação via JSON, garantindo a independência entre os módulos e facilitando manutenções futuras.
 
-A proposta de Oliveira et al. (2021) converge com o presente trabalho ao reconhecer que a ausência de práticas sistemáticas de garantia da qualidade favorece o desenvolvimento de produtos que podem não atender plenamente aos requisitos dos usuários. Contudo, enquanto o trabalho anterior concentra seus esforços na colaboração interpessoal por meio da programação em pares para promover essa qualidade, a proposta apresentada adota o Test-Driven Development (TDD) como pilar metodológico central. Embora o XP inclua diretrizes de teste, este trabalho aprofunda as práticas de Verificação e Validação (V\&V) ao implementar o ciclo Red-Green-Refactor, assegurando que cada regra de negócio da Associação de Apicultores de Poranga seja formalmente validada por testes automatizados antes de sua implementação definitiva.
+A proposta de Oliveira et al. (2021) converge com este trabalho ao reconhecer que a ausência de práticas sistemáticas de garantia da qualidade pode resultar em sistemas que não atendem plenamente aos requisitos dos usuários. Entretanto, no que se refere à Verificação e Validação (V\&V), o processo adotado é baseado principalmente em estratégias de colaboração interpessoal, com ênfase no feedback dos usuários e na revisão de código em pares (pair review), sem a utilização de testes automatizados e de abordagens estruturadas como o Test-Driven Development, abordagem que é adotada neste trabalho.
 
 Além do diferencial metodológico proporcionado pela adoção do TDD, a solução proposta neste trabalho também se distingue da apresentada por Oliveira et al. (2021) ao adotar a estratégia Mobile First. Enquanto os autores direcionam sua solução para portais administrativos de uso predominantemente web, a aplicação desenvolvida utiliza tecnologias como Go e Next.js para entregar uma solução simultaneamente robusta do ponto de vista lógico e acessível à realidade dos produtores rurais.
 
@@ -53,24 +53,26 @@ O Quadro \ref{tab:comparativo} sintetiza essas diferenças, evidenciando que a c
 
 \begin{table}[h]
 \centering
-\caption{Comparação entre os trabalhos relacionados}
+\caption{Comparação entre os trabalhos relacionados e a proposta deste trabalho}
 \label{tab:comparativo}
+\resizebox{\textwidth}{!}{ 
 \begin{tabular}{|l|c|c|c|c|c|}
 \hline
-\textbf{Critério} & \textbf{SisFarming} & \textbf{APISAPP} & \textbf{Colonymon} & \textbf{Oliveira et al.} \\
-& \textbf{(2026)} & \textbf{(2016)} & \textbf{(2024)} & \textbf{(2021)} \\
+\textbf{Critério} & \textbf{SisFarming} & \textbf{APISAPP} & \textbf{Colonymon} & \textbf{Oliveira et al.} & \textbf{Este Trabalho} \\
+& \textbf{(2026)} & \textbf{(2016)} & \textbf{(2024)} & \textbf{(2021)} & \textbf{(2026)} \\
 \hline
-Domínio específico & Agric. Familiar & Apicultura & Apicultura & Associações \\
+Domínio específico & Agric. Familiar & Apicultura & Apicultura & Associações & \textbf{Assoc. Apícola} \\
 \hline
-Foco principal & Institucional & Individual & Produtiva & Institucional \\
+Foco principal & Institucional & Individual & Produtiva & Institucional & \textbf{Institucional} \\
 \hline
-Metodologia de V\&V & Não especificado & Manual & Manual & Verificação ágil \\
+Metodologia de V\&V & Não especificado & Manual & Manual & feedback/pair review & \textbf{TDD (Automat.)} \\
 \hline
-Estratégia de interface & Híbrida & Mobile/Web & Web & Web \\
+Estratégia de interface & Híbrida & Mobile/Web & Web & Web & \textbf{Mobile First} \\
 \hline
-Base tecnológica & Pascal/Delphi & Low-code & React/Next.js & API/MongoDB \\
+Base tecnológica & Pascal/Delphi & Low-code & React/Next.js & API/MongoDB & \textbf{Go/Next.js} \\
 \hline
-Economia Solidária & Não & Não & Não & Não \\
+Economia Solidária & Não & Não & Não & Não & \textbf{Sim (Central)} \\
 \hline
 \end{tabular}
+}
 \end{table}
