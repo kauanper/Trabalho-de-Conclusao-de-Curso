@@ -45,29 +45,32 @@ Além do diferencial metodológico proporcionado pela adoção do TDD, a soluç�
 \section{Análise Comparativa}
 \label{sec:analise_comparativa}
 
-A análise comparativa apresentada nesta seção tem como objetivo situar a proposta deste trabalho frente aos sistemas e estudos discutidos anteriormente, evidenciando os pontos em que cada um contribui para a fundamentação do TCC e as lacunas que a solução aqui desenvolvida busca preencher. Os critérios adotados para a comparação consideram tanto o domínio de aplicação dos trabalhos quanto o rigor do processo de Engenharia de Software empregado em cada um deles, aspectos centrais para a discussão conduzida ao longo deste trabalho.
+A análise dos trabalhos relacionados evidencia que as soluções existentes atendem a necessidades específicas da apicultura ou da gestão de organizações, porém sob perspectivas distintas. Os trabalhos de Pinto (2016) e Maciel (2024) concentram-se no apoio às atividades produtivas e ao manejo apícola, oferecendo funcionalidades voltadas ao planejamento da produção e ao acompanhamento técnico dos apiários. Por outro lado, Oliveira et al. (2021) e Aguiar (2026) direcionam seus esforços para a gestão institucional de associações, priorizando processos administrativos e organizacionais sem contemplar particularidades do contexto apícola.
 
-O Quadro \ref{quadro:comparacao} apresenta a comparação entre os quatro trabalhos relacionados e a proposta deste TCC, segundo os critérios de foco em apicultura, foco em associações, uso de TDD, adoção de testes automatizados, elicitação voltada a usuários com baixa familiaridade digital e abordagem Mobile First.
+Sob a perspectiva da Engenharia de Software, observa-se ainda que os trabalhos analisados empregam diferentes metodologias e tecnologias de desenvolvimento, porém com pouca ênfase em estratégias que garantam maior confiabilidade ao software. Em especial, Maciel (2024) restringe a validação do sistema à realização de testes manuais, enquanto os demais trabalhos não apresentam uma abordagem baseada em testes automatizados orientados ao desenvolvimento. Nesse contexto, este trabalho diferencia-se ao adotar o Test-Driven Development (TDD), incorporando a verificação automatizada desde as etapas iniciais da implementação e contribuindo para a confiabilidade das regras de negócio do sistema.
 
-\begin{table}[htb]
-\caption{Comparação entre os trabalhos relacionados e a proposta deste TCC}
-\label{quadro:comparacao}
+Outro aspecto que diferencia a proposta desenvolvida refere-se à integração entre a gestão institucional e as necessidades específicas da apicultura. Enquanto os sistemas voltados à produção concentram-se no gerenciamento individual ou técnico dos apiários e os sistemas para associações apresentam soluções de caráter mais genérico, este trabalho busca reunir essas duas perspectivas em uma única aplicação, considerando simultaneamente as demandas administrativas de uma associação apícola e as características do seu contexto produtivo. Além disso, a adoção da estratégia Mobile First busca ampliar a acessibilidade da aplicação em dispositivos móveis, realidade predominante entre os produtores rurais, reforçando o alinhamento da solução às condições de uso dos associados.
+
+\begin{table}[h]
 \centering
-\begin{tabular}{lccccc}
+\caption{Comparação entre os trabalhos relacionados}
+\label{tab:comparativo}
+\begin{tabular}{|l|c|c|c|c|c|}
 \hline
-\textbf{Critério} & \textbf{SisFarming} & \textbf{APISAPP} & \textbf{Colonymon} & \textbf{Oliveira et al.} & \textbf{Este TCC} \\
+\textbf{Critério} & \textbf{SisFarming} & \textbf{APISAPP} & \textbf{Colonymon} & \textbf{Oliveira et al.} \\
+& \textbf{(2026)} & \textbf{(2016)} & \textbf{(2024)} & \textbf{(2021)} \\
 \hline
-Foco em Apicultura & Não & Sim & Sim & Não & Sim \\
-Foco em Associações & Sim & Não & Não & Sim & Sim \\
-Uso de TDD & Não & Não & Não & Não & Sim \\
-Testes Automatizados & Não & Não & Não & Não & Sim \\
-Elicitação p/ Baixa Familiaridade & Não & Não & Não & Não & Sim \\
-Abordagem Mobile First & Parcial & Sim & Não & Não & Sim \\
+Domínio específico & Agric. Familiar & Apicultura & Apicultura & Associações \\
+\hline
+Foco principal & Institucional & Individual & Produtiva & Institucional \\
+\hline
+Metodologia de V\&V & Não especificado & Manual & Manual & Verificação ágil \\
+\hline
+Estratégia de interface & Híbrida & Mobile/Web & Web & Web \\
+\hline
+Base tecnológica & Pascal/Delphi & Low-code & React/Next.js & API/MongoDB \\
+\hline
+Economia Solidária & Não & Não & Não & Não \\
 \hline
 \end{tabular}
-\legend{Fonte: Elaborado pelo autor.}
 \end{table}
-
-Quanto à relevância de cada trabalho para a fundamentação deste TCC, adotou-se uma escala de 1 a 5, de modo a indicar o grau de contribuição de cada um para a construção da proposta aqui apresentada. O SisFarming recebe nota 5, por ser o trabalho mais próximo da proposta em termos organizacionais, tratando diretamente da assimetria de informação e da confiança dentro de associações, ainda que sem o rigor de testes adotado neste TCC. O APISAPP recebe nota 4, contribuindo principalmente como referência para a dimensão financeira da apicultura, mesmo que seu foco individual e sua construção em ferramentas de baixo código o distanciem do contexto associativo e do rigor técnico aqui propostos. O Colonymon Web recebe nota 4, por se tratar da referência tecnológica mais próxima ao domínio da apicultura entre os trabalhos analisados, ainda que limitado ao monitoramento biológico das colmeias. Por fim, o trabalho de Oliveira et al. (2021) recebe nota 4, servindo como principal referência em Engenharia de Software aplicada à gestão de associações, apesar de seu caráter genérico, que não contempla as particularidades da cadeia apícola.
-
-De modo geral, observa-se que os trabalhos analisados abordam, de forma isolada, ou a dimensão da apicultura, ou a dimensão organizacional das associações, sem que nenhum deles combine essas duas perspectivas a um processo de desenvolvimento orientado pela confiabilidade do software. A principal lacuna identificada está na ausência de uma metodologia de desenvolvimento rigorosa, como o TDD, aplicada ao contexto da Economia Solidária. Enquanto os trabalhos relacionados priorizam funcionalidades específicas ou metodologias ágeis de forma mais geral, este TCC propõe o uso do TDD como garantia de que o software desenvolvido seja capaz de sustentar os laços de confiança mútua necessários à continuidade da Associação de Apicultores de Poranga.

@@ -41,34 +41,34 @@
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Cronograma}}{39}{chapter.5}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\MakeTextUppercase []{REFER\^ENCIAS}}{40}{section*.18}%
-\contentsline {chapter}{AP\^ENDICES}{42}{section*.18}%
+\contentsline {chapter}{AP\^ENDICES}{43}{section*.18}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \renewcommand *{\cftappendixname }{\bfseries AP\^ENDICE \space }
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{42}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{43}{appendix.A}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{43}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{44}{appendix.B}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {C}\normalfont Códigos-fontes utilizados para...}{44}{appendix.C}%
+\contentsline {appendix}{\chapternumberline {C}\normalfont Códigos-fontes utilizados para...}{45}{appendix.C}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {D}\normalfont \textit {IEEE CEFC 2016}}{45}{appendix.D}%
-\contentsline {chapter}{ANEXOS}{47}{appendix.D}%
+\contentsline {appendix}{\chapternumberline {D}\normalfont \textit {IEEE CEFC 2016}}{46}{appendix.D}%
+\contentsline {chapter}{ANEXOS}{48}{appendix.D}%
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \renewcommand *{\cftappendixname }{\bfseries ANEXO \space }
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{47}{appendix.anexochapback.1}%
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{48}{appendix.anexochapback.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{48}{appendix.anexochapback.2}%
+\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{49}{appendix.anexochapback.2}%

@@ -21,9 +21,9 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: 3-pos-textuais/referencias.bib
 Warning--entry type for "sousa2022" isn't style-file defined
---line 79 of file 3-pos-textuais/referencias.bib
+--line 80 of file 3-pos-textuais/referencias.bib
 Warning--entry type for "aprova2025" isn't style-file defined
---line 132 of file 3-pos-textuais/referencias.bib
+--line 133 of file 3-pos-textuais/referencias.bib
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -33,45 +33,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 35 entries,
+You've used 38 entries,
             6714 wiz_defined-function locations,
-            1387 strings with 15099 characters,
-and the built_in function-call counts, 29719 in all, are:
-= -- 2683
-> -- 801
+            1408 strings with 16137 characters,
+and the built_in function-call counts, 31771 in all, are:
+= -- 2824
+> -- 880
 < -- 293
-+ -- 601
-- -- 245
-* -- 1939
-:= -- 3848
-add.period$ -- 117
-call.type$ -- 37
-change.case$ -- 301
-chr.to.int$ -- 76
-cite$ -- 30
-duplicate$ -- 1954
-empty$ -- 2095
-format.name$ -- 1180
-if$ -- 6787
++ -- 631
+- -- 269
+* -- 2093
+:= -- 4144
+add.period$ -- 129
+call.type$ -- 40
+change.case$ -- 330
+chr.to.int$ -- 79
+cite$ -- 33
+duplicate$ -- 2050
+empty$ -- 2256
+format.name$ -- 1301
+if$ -- 7263
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 603
-newline$ -- 158
-num.names$ -- 150
-pop$ -- 727
+missing$ -- 654
+newline$ -- 175
+num.names$ -- 165
+pop$ -- 779
 preamble$ -- 1
-purify$ -- 126
+purify$ -- 137
 quote$ -- 0
-skip$ -- 2283
+skip$ -- 2391
 stack$ -- 1
-substring$ -- 1117
-swap$ -- 828
+substring$ -- 1168
+swap$ -- 873
 text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 13
+type$ -- 20
 warning$ -- 0
-while$ -- 211
+while$ -- 229
 width$ -- 0
-write$ -- 478
+write$ -- 527
 (There was 1 error message)
