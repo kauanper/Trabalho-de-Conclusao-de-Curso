@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  25 JUN 2026 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  25 JUN 2026 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1356,9 +1356,9 @@ LaTeX Warning: Citation `usar outra ref' on page 25 undefined on input line 94.
 Cap\'{\i }tulo 3.
 [28
 
-] [29]
-2-textuais/trabalhos-relacionados.tex:36: Misplaced alignment tab character &.
-l.36 ...áticas de Verificação e Validação (V&
+] [29] [30]
+2-textuais/trabalhos-relacionados.tex:46: Misplaced alignment tab character &.
+l.46 ...áticas de Verificação e Validação (V&
                                                   V) ao implementar o ciclo ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1367,49 +1367,49 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[30]
-Overfull \hbox (66.34305pt too wide) in paragraph at lines 52--64
+[31]
+Overfull \hbox (66.34305pt too wide) in paragraph at lines 61--73
  [][] 
  []
 
-[31]) (2-textuais/3-metodologia.tex [32]
+[32]) (2-textuais/3-metodologia.tex [33]
 Cap\'{\i }tulo 4.
-<figuras/fluxo_metodologico.png, id=474, 2730.2pt x 3292.3pt>
+<figuras/fluxo_metodologico.png, id=478, 2730.2pt x 3292.3pt>
 File: figuras/fluxo_metodologico.png Graphic file (type png)
 <use figuras/fluxo_metodologico.png>
 Package pdftex.def Info: figuras/fluxo_metodologico.png  used on input line 12.
 (pdftex.def)             Requested size: 364.19667pt x 439.1665pt.
-[33
+[34
 
-] [34 <./figuras/fluxo_metodologico.png>] [35] [36]
+] [35 <./figuras/fluxo_metodologico.png>] [36] [37]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [37]) (2-textuais/4-resultados.tex) (2-textuais/5-conclusao.tex) (2-textuais/6-cronograma.tex [38]
+ [38]) (2-textuais/4-resultados.tex) (2-textuais/5-conclusao.tex) (2-textuais/6-cronograma.tex [39]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (19.64023pt too wide) in paragraph at lines 10--33
  [][] 
  []
 
-) (documento.bbl [39
+) (documento.bbl [40
 
 ]
 bibitemlist
-[40
+[41
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 147.
  (C:\Users\kauan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) [41] (3-pos-textuais/apendices/apendice-a.tex
+)) [42] (3-pos-textuais/apendices/apendice-a.tex
 \bfseries AP\^ENDICE A.
-) (3-pos-textuais/apendices/apendice-b.tex [42
+) (3-pos-textuais/apendices/apendice-b.tex [43
 
 ]
 \bfseries AP\^ENDICE B.
-) (3-pos-textuais/apendices/apendice-c.tex [43
+) (3-pos-textuais/apendices/apendice-c.tex [44
 
 ]
 \bfseries AP\^ENDICE C.
@@ -1421,14 +1421,14 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 ) (figuras/main.cpp) (C:\Users\kauan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-)) (3-pos-textuais/apendices/apendice-d.tex [44
+)) (3-pos-textuais/apendices/apendice-d.tex [45
 
 ]
 \bfseries AP\^ENDICE D.
 
 
 pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<3-pos-textuais/apendices/PID4416093.pdf, id=593, 614.295pt x 794.97pt>
+<3-pos-textuais/apendices/PID4416093.pdf, id=597, 614.295pt x 794.97pt>
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf  used on input line 7.
@@ -1439,7 +1439,7 @@ pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF i
 
 
 pdfTeX warning: pdflatex (file ./3-pos-textuais/apendices/PID4416093.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<3-pos-textuais/apendices/PID4416093.pdf, id=595, page=1, 614.295pt x 794.97pt>
+<3-pos-textuais/apendices/PID4416093.pdf, id=599, page=1, 614.295pt x 794.97pt>
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
@@ -1448,7 +1448,7 @@ File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[45
+[46
 
 ]
 File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
@@ -1463,20 +1463,20 @@ File: 3-pos-textuais/apendices/PID4416093.pdf Graphic file (type pdf)
 <use 3-pos-textuais/apendices/PID4416093.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/apendices/PID4416093.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [46
+ [47
 
  <./3-pos-textuais/apendices/PID4416093.pdf>]) (3-pos-textuais/anexos/anexo-a.tex
 \bfseries ANEXO A.
-) (3-pos-textuais/anexos/anexo-b.tex [47
+) (3-pos-textuais/anexos/anexo-b.tex [48
 
 ]
 \bfseries ANEXO B.
-<3-pos-textuais/anexos/Sikasil.pdf, id=633, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=637, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf  used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<3-pos-textuais/anexos/Sikasil.pdf, id=635, page=1, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=639, page=1, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
@@ -1485,7 +1485,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-[48
+[49
 
 ]
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
@@ -1500,10 +1500,10 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [49
+ [50
 
  <./3-pos-textuais/anexos/Sikasil.pdf>]
-<3-pos-textuais/anexos/Sikasil.pdf, id=656, page=2, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=660, page=2, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
@@ -1516,7 +1516,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [50
+ [51
 
  <./3-pos-textuais/anexos/Sikasil.pdf>])
 No file documento.ind.
@@ -1538,13 +1538,10 @@ L3 programming layer <2020/03/25>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 35187 strings out of 467871
- 634769 string characters out of 5418376
+ 35188 strings out of 467871
+ 634776 string characters out of 5418376
  1468435 words of memory out of 5000000
  63064 multiletter control sequences out of 15000+600000
  675526 words of font info for 266 fonts, out of 8000000 for 9000
@@ -1554,9 +1551,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{glo:PDF} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (50 pages, 858659 bytes).
+Output written on documento.pdf (51 pages, 861208 bytes).
 PDF statistics:
- 913 PDF objects out of 1000 (max. 8388607)
- 165 named destinations out of 1000 (max. 500000)
+ 917 PDF objects out of 1000 (max. 8388607)
+ 166 named destinations out of 1000 (max. 500000)
  49545 words of extra memory for PDF output out of 51595 (max. 10000000)
 
