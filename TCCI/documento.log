@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  26 JUN 2026 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  27 JUN 2026 01:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1335,13 +1335,13 @@ Cap\'{\i }tulo 1.
 Cap\'{\i }tulo 2.
 [14
 
-] [15] [16] [17] [18] [19] [20] [21] [22]) (2-textuais/trabalhos-relacionados.tex [23]
+] [15] [16] [17] [18] [19] [20] [21]) (2-textuais/trabalhos-relacionados.tex [22] [23]
 Cap\'{\i }tulo 3.
 [24
 
 ] [25] [26] [27]) (2-textuais/3-metodologia.tex [28]
 Cap\'{\i }tulo 4.
-<figuras/fluxo_metodologico.png, id=430, 2730.2pt x 3292.3pt>
+<figuras/fluxo_metodologico.png, id=457, 2730.2pt x 3292.3pt>
 File: figuras/fluxo_metodologico.png Graphic file (type png)
 <use figuras/fluxo_metodologico.png>
 Package pdftex.def Info: figuras/fluxo_metodologico.png  used on input line 12.
@@ -1389,17 +1389,17 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 34059 strings out of 467871
- 615605 string characters out of 5418376
+ 34060 strings out of 467871
+ 615613 string characters out of 5418376
  1243135 words of memory out of 5000000
- 62053 multiletter control sequences out of 15000+600000
- 667884 words of font info for 248 fonts, out of 8000000 for 9000
+ 62052 multiletter control sequences out of 15000+600000
+ 668109 words of font info for 250 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,120p,2538b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (38 pages, 524204 bytes).
+Output written on documento.pdf (38 pages, 526217 bytes).
 PDF statistics:
- 685 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 41238 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 700 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 41230 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -10,7 +10,6 @@
 \contentsline {section}{\numberline {2.1}Apicultura e Desenvolvimento no Semiárido Brasileiro}{14}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Associativismo e Economia Solidária}{15}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Confiança em Organizações de Economia Solidária}{17}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Confiabilidade de Sistemas de Informação}{18}{subsection.2.3.1}%
 \contentsline {section}{\numberline {2.4}Engenharia de Software}{18}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Engenharia de Requisitos}{19}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Modelagem de Sistemas}{20}{subsection.2.4.2}%
