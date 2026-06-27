@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  27 JUN 2026 02:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.17)  27 JUN 2026 02:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1341,40 +1341,19 @@ Cap\'{\i }tulo 3.
 
 ] [25] [26] [27]) (2-textuais/3-metodologia.tex [28]
 Cap\'{\i }tulo 4.
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 29 undefined on input line 4.
-
-<figuras/fluxo_metodologico.png, id=469, 2730.2pt x 3292.3pt>
+<figuras/fluxo_metodologico.png, id=470, 2730.2pt x 3292.3pt>
 File: figuras/fluxo_metodologico.png Graphic file (type png)
 <use figuras/fluxo_metodologico.png>
 Package pdftex.def Info: figuras/fluxo_metodologico.png  used on input line 12.
 (pdftex.def)             Requested size: 364.19667pt x 439.1665pt.
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 29 undefined on input line 23.
-
 [29
 
-] [30 <./figuras/fluxo_metodologico.png>]
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 31 undefined on input line 31.
-
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 31 undefined on input line 36.
-
-[31]
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 32 undefined on input line 52.
-
-[32]
+] [30 <./figuras/fluxo_metodologico.png>] [31] [32]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [33]
-
-LaTeX Warning: Reference `sec:engenharia_software' on page 34 undefined on input line 80.
-
-) (2-textuais/4-resultados.tex) (2-textuais/5-conclusao.tex) (2-textuais/6-cronograma.tex [34]
+ [33]) (2-textuais/4-resultados.tex) (2-textuais/5-conclusao.tex) (2-textuais/6-cronograma.tex [34]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (19.64023pt too wide) in paragraph at lines 10--33
@@ -1408,23 +1387,19 @@ No file documento.ind.
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 34105 strings out of 467871
- 616543 string characters out of 5418376
+ 34104 strings out of 467871
+ 616525 string characters out of 5418376
  1245751 words of memory out of 5000000
- 62081 multiletter control sequences out of 15000+600000
+ 62080 multiletter control sequences out of 15000+600000
  668490 words of font info for 256 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,120p,2538b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\kauan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kauan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (38 pages, 529181 bytes).
+Output written on documento.pdf (38 pages, 529894 bytes).
 PDF statistics:
- 708 PDF objects out of 1000 (max. 8388607)
+ 714 PDF objects out of 1000 (max. 8388607)
  123 named destinations out of 1000 (max. 500000)
  41230 words of extra memory for PDF output out of 42996 (max. 10000000)
 
