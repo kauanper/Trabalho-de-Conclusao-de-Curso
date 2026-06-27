@@ -130,6 +130,19 @@ IEEE Std 829-2008.}
 Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
   de software.}
 
+\bibitem[{International Organization for Standardization} 2018]{iso9241_2018}
+\abntrefinfo{{International Organization for Standardization}}{{International
+  Organization for Standardization}}{2018}
+{{International Organization for Standardization}. \textbf{ISO 9241-11:2018 —
+  Ergonomics of Human-System Interaction — Part 11: Usability: Definitions
+  and Concepts}. Geneva: [s.n.], 2018. ISO.}
+
+\bibitem[{ISO/IEC/IEEE} 2022]{iso29119_2022}
+\abntrefinfo{{ISO/IEC/IEEE}}{{ISO/IEC/IEEE}}{2022}
+{{ISO/IEC/IEEE}. \textbf{ISO/IEC/IEEE 29119-1:2022 — Software and Systems
+  Engineering — Software Testing — Part 1: General Concepts}. Geneva:
+  [s.n.], 2022. ISO.}
+
 \bibitem[Khan \textit{et al.} 2009]{khan2009desempenho}
 \abntrefinfo{Khan \textit{et al.}}{KHAN \textit{et al.}}{2009}
 {KHAN, A.~S.; MATOS, V. D.~d.; LIMA, P. V. P.~S. Desempenho da apicultura no

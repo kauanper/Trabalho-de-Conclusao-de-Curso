@@ -49,45 +49,41 @@ Diante disso, torna-se importante discutir a confiabilidade dos sistemas de info
 
 Portanto, em organizações nas quais a transparência e a confiança são elementos fundamentais, a confiabilidade do software deixa de ser apenas uma questão técnica e passa a contribuir diretamente para a sustentação dos processos organizacionais \cite{aguiar2026, aprova2025}. Para que isso seja possível, é necessário que o desenvolvimento do sistema seja conduzido por práticas capazes de garantir a qualidade do produto desde as etapas iniciais do projeto \cite{sommerville2019}.
 
-%Remover negrito
 \section{Engenharia de Software} \label{sec:eng_software}
-
+ 
 Para que o desenvolvimento do sistema seja conduzido de forma a garantir essa confiabilidade, torna-se necessário apoiar-se em uma área dedicada justamente a isso: a Engenharia de Software, que reúne métodos, técnicas e processos voltados ao desenvolvimento sistemático de software \cite{sommerville2019}. Sua adoção torna-se especialmente relevante no contexto deste trabalho, uma vez que o sistema desenvolvido tem como objetivo integrar os processos internos da Associação dos Apicultores, apoiando atividades de gestão, comunicação e compartilhamento de informações entre seus membros \cite{aguiar2026}.
-
+ 
 De forma geral, a Engenharia de Software busca promover a construção de sistemas que atendam às necessidades dos usuários de forma eficiente, contribuindo para atributos de qualidade como confiabilidade, manutenibilidade e segurança, além de reduzir a ocorrência de falhas ao longo do ciclo de vida do software \cite{sommerville2019, netto2025}. Para alcançar esses objetivos, é necessário compreender adequadamente o problema que será solucionado e as necessidades dos usuários que utilizarão o sistema \cite{sommerville1997}.
-
+ 
 \subsection{Engenharia de Requisitos}
-
-A Engenharia de Requisitos desempenha um papel fundamental nesse processo, sendo responsável pela identificação, análise e documentação das necessidades e expectativas dos stakeholders em relação ao software \cite{netto2025, sommerville1997}. Entretanto, requisitos mal compreendidos ou interpretados incorretamente podem resultar no desenvolvimento de funcionalidades que não atendem às reais demandas dos usuários. Como forma de reduzir esse risco, é comum a utilização de técnicas de prototipação, que permitem representar antecipadamente aspectos da interface e do comportamento esperado do sistema, possibilitando a validação dos requisitos antes do início da implementação \cite{netto2025, sommerville1997}.
-
+ 
+A Engenharia de Requisitos desempenha um papel fundamental nesse processo, sendo responsável pela identificação, análise e documentação das necessidades e expectativas dos stakeholders em relação ao software \cite{sommerville1997}. Entretanto, requisitos mal compreendidos ou interpretados incorretamente podem resultar no desenvolvimento de funcionalidades que não atendem às reais demandas dos usuários. Como forma de reduzir esse risco, é comum a utilização de técnicas de prototipação, que permitem representar antecipadamente aspectos da interface e do comportamento esperado do sistema, possibilitando a validação dos requisitos antes do início da implementação \cite{netto2025}.
+ 
 Entre as abordagens de prototipação, a Prototipação Exploratória consiste na construção de um protótipo antes da especificação formal dos requisitos, com o objetivo de materializar a compreensão inicial do desenvolvedor sobre o problema e submetê-la à avaliação dos stakeholders \cite{carrizo2018}. A interação com o protótipo permite que os usuários reajam ao que veem, tornando mais fácil identificar o que está correto, o que está incompleto e o que precisa ser modificado, sem exigir que descrevam o sistema de forma abstrata \cite{carrizo2018}. Essa técnica é especialmente útil quando os usuários têm baixa familiaridade com ferramentas digitais ou dificuldade em expressar suas necessidades sem uma referência visual.
-
-
-%colocar mais referência e se possível uma mais recente de 2017 pra frente
-Para a estruturação dos requisitos levantados, é comum a adoção de hierarquias inspiradas no planejamento ágil, compostas por Épicos, e Histórias de Usuário \cite{cohn2004}. Os Épicos representam as grandes áreas funcionais do sistema, correspondendo a objetivos estratégicos de alto nível. As Features decompõem cada épico em capacidades funcionais mais específicas, representando grupos de funcionalidades relacionadas. Por fim, as Histórias de Usuário detalham cada funcionalidade na perspectiva do usuário, seguindo o formato: \textit{``Como [tipo de usuário], quero [ação], para que [objetivo ou valor]''} \cite{cohn2004}. Cada história é acompanhada de Critérios de Aceitação, que definem as condições objetivas que o sistema deve satisfazer para que a funcionalidade seja considerada implementada corretamente \cite{cohn2004}.
-
+ 
+Para a estruturação dos requisitos levantados, é comum a adoção de hierarquias inspiradas no planejamento ágil, compostas por Épicos, Features e Histórias de Usuário \cite{cohn2004, lucassen2015forging}. Os Épicos representam as grandes áreas funcionais do sistema, correspondendo a objetivos estratégicos de alto nível. As Features decompõem cada épico em capacidades funcionais mais específicas, representando grupos de funcionalidades relacionadas. Por fim, as Histórias de Usuário detalham cada funcionalidade na perspectiva do usuário, seguindo o formato: \textit{``Como [tipo de usuário], quero [ação], para que [objetivo ou valor]''} \cite{cohn2004}. Cada história é acompanhada de Critérios de Aceitação, que definem as condições objetivas que o sistema deve satisfazer para que a funcionalidade seja considerada implementada corretamente \cite{cohn2004, dalpiaz2018agile}.
+ 
 Esses critérios são frequentemente elaborados no formato \textit{Given-When-Then} (Dado-Quando-Então), oriundo da abordagem de \textit{Behavior-Driven Development} (BDD), que descreve o comportamento esperado do sistema a partir de um estado inicial, de uma ação executada e de um resultado verificável. Essa estrutura facilita a rastreabilidade entre os requisitos especificados e os testes a serem produzidos durante o desenvolvimento \cite{north2006}.
-
+ 
 \subsection{Modelagem de Sistemas}
-
-%Tentar pegar outra referência além de sommer
+ 
 Além disso, outra etapa importante para a qualidade do software é a modelagem do sistema, cujo objetivo é representar sua estrutura e seu comportamento antes da implementação. Essa representação permite analisar e planejar a solução de forma antecipada, facilitando a identificação de inconsistências, a avaliação de alternativas de projeto e a tomada de decisões arquiteturais com menor risco de retrabalho. Além disso, os modelos produzidos constituem uma importante documentação do sistema, contribuindo para a comunicação entre os envolvidos no desenvolvimento e para a compreensão e manutenção da aplicação ao longo de seu ciclo de vida \cite{sommerville2019}. Para essa finalidade, a notação amplamente adotada é a \textit{Unified Modeling Language} (UML), que oferece um conjunto padronizado de diagramas para representar diferentes perspectivas do sistema \cite{booch2005}.
-
-Entre as perspectivas adotadas neste trabalho, o Diagrama Entidade-Relacionamento (DER) é utilizado para modelar a estrutura do banco de dados relacional, definindo as entidades, seus atributos e os relacionamentos entre elas. O Diagrama de Classes representa as entidades da camada de negócio, seus atributos, métodos e relacionamentos, servindo como referência para a organização do código-fonte. Por sua vez, os Diagramas de Sequência descrevem a interação entre os componentes do sistema durante a execução de casos de uso específicos, sendo empregados principalmente na representação de fluxos com maior complexidade ou risco de ambiguidades \cite{sommerville2019, booch2005}.
-
+ 
+Entre as perspectivas adotadas neste trabalho, o Diagrama Entidade-Relacionamento (DER) é utilizado para modelar a estrutura do banco de dados relacional, definindo as entidades, seus atributos e os relacionamentos entre elas \cite{elmasri2016fundamentals}. O Diagrama de Classes representa as entidades da camada de negócio, seus atributos, métodos e relacionamentos, servindo como referência para a organização do código-fonte. Por sua vez, os Diagramas de Sequência descrevem a interação entre os componentes do sistema durante a execução de casos de uso específicos, sendo empregados principalmente na representação de fluxos com maior complexidade ou risco de ambiguidades \cite{sommerville2019, booch2005}.
+ 
 \subsection{Mobile First}
-
-No âmbito do desenvolvimento de interfaces, o \textit{Mobile First} é uma abordagem que consiste em projetar inicialmente para dispositivos móveis e, somente após sua consolidação, adaptar o design para telas desktop \cite{wroblewski2011}. Essa estratégia parte do princípio de que expandir uma interface mobile para telas maiores é mais simples do que comprimir uma interface desktop para dispositivos com telas menores. Ao forçar o designer a priorizar o conteúdo essencial desde o início, o \textit{Mobile First} tende a produzir interfaces mais focadas e com melhor desempenho em dispositivos com hardware mais limitado. %Colocar referencia para a ultima parte do texto
-
+ 
+No âmbito do desenvolvimento de interfaces, o \textit{Mobile First} é uma abordagem que consiste em projetar inicialmente para dispositivos móveis e, somente após sua consolidação, adaptar o design para telas desktop \cite{wroblewski2011}. Essa estratégia parte do princípio de que expandir uma interface mobile para telas maiores é mais simples do que comprimir uma interface desktop para dispositivos com telas menores. Ao forçar o designer a priorizar o conteúdo essencial desde o início, o \textit{Mobile First} tende a produzir interfaces mais focadas e com melhor desempenho em dispositivos com hardware mais limitado \cite{hernandeznieto2015mobile}.
+ 
 \subsection{Avaliação de Usabilidade}
-
-A usabilidade é um atributo de qualidade de software que expressa a facilidade com que os usuários conseguem utilizar um sistema para atingir seus objetivos de forma eficiente e satisfatória \cite{nielsen1993}. Sua avaliação é parte integrante do processo de desenvolvimento, complementando as atividades de verificação ao considerar não apenas se o sistema funciona corretamente, mas se funciona bem para quem o utiliza \cite{sommerville2019}.
-
-Entre as técnicas disponíveis para essa avaliação, os Testes de Usabilidade com Usuários consistem em convidar representantes do público-alvo a realizar um conjunto de tarefas predefinidas no sistema, enquanto suas dificuldades e comportamentos são observados. Essa abordagem permite identificar problemas reais de uso que dificilmente seriam detectados por inspeção técnica, uma vez que coloca o sistema à prova diante das expectativas e limitações concretas de quem irá utilizá-lo \cite{nielsen1993}. %Citar outro trabalho, buscar artigos de especialistas 
-
+ 
+A usabilidade é um atributo de qualidade de software que expressa a facilidade com que os usuários conseguem utilizar um sistema para atingir seus objetivos de forma eficiente e satisfatória \cite{ iso9241_2018}. Sua avaliação é parte integrante do processo de desenvolvimento, complementando as atividades de verificação ao considerar não apenas se o sistema funciona corretamente, mas se funciona bem para quem o utiliza \cite{sommerville2019}.
+ 
+Entre as técnicas disponíveis para essa avaliação, os Testes de Usabilidade com Usuários consistem em convidar representantes do público-alvo a realizar um conjunto de tarefas predefinidas no sistema, enquanto suas dificuldades e comportamentos são observados. Essa abordagem permite identificar problemas reais de uso que dificilmente seriam detectados por inspeção técnica, uma vez que coloca o sistema à prova diante das expectativas e limitações concretas de quem irá utilizá-lo \cite{nielsen1993, rubin2008handbook}.
+ 
 \section{Verificação e Validação de Software}\label{sec:vv}
 
-Contudo, mesmo que as práticas mencionadas anteriormente contribuam para aumentar a qualidade do software desde as fases iniciais de desenvolvimento, ainda é necessário verificar se a implementação atende às especificações estabelecidas e validar se o sistema satisfaz as necessidades dos usuários. Nesse contexto, inserem-se as atividades de Verificação e Validação (V\&V), responsáveis por fornecer evidências de que o software foi desenvolvido corretamente e de que atende ao propósito para o qual foi concebido \cite{sommerville2019}. %Buscar outra referência
+Contudo, mesmo que as práticas mencionadas anteriormente contribuam para aumentar a qualidade do software desde as fases iniciais de desenvolvimento, ainda é necessário verificar se a implementação atende às especificações estabelecidas e validar se o sistema satisfaz as necessidades dos usuários. Nesse contexto, inserem-se as atividades de Verificação e Validação (V\&V), responsáveis por fornecer evidências de que o software foi desenvolvido corretamente e de que atende ao propósito para o qual foi concebido \cite{iso29119_2022}. %Buscar outra referência
 
 \subsection{Modelo V}
 
