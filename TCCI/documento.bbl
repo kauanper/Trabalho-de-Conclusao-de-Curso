@@ -81,6 +81,17 @@ ISBN 978-65-5621-546-4.}
   Boston: Addison-Wesley Professional, 2004.
 ISBN 0-321-20568-5.}
 
+\bibitem[Dalpiaz e Brinkkemper 2018]{dalpiaz2018agile}
+\abntrefinfo{Dalpiaz e Brinkkemper}{DALPIAZ; BRINKKEMPER}{2018}
+{DALPIAZ, F.; BRINKKEMPER, S. Agile requirements engineering with user stories.
+  In:  \textbf{2018 IEEE 26th International Requirements Engineering Conference
+  (RE)}. [S.l.]: IEEE, 2018. p. 506--507.}
+
+\bibitem[Elmasri e Navathe 2016]{elmasri2016fundamentals}
+\abntrefinfo{Elmasri e Navathe}{ELMASRI; NAVATHE}{2016}
+{ELMASRI, R.; NAVATHE, S.~B. \textbf{Fundamentals of Database Systems}. 7. ed.
+  Boston: Pearson, 2016.}
+
 \bibitem[Fowler 2007]{fowler2007mocks}
 \abntrefinfo{Fowler}{FOWLER}{2007}
 {FOWLER, M. \textbf{Mocks Aren't Stubs}. 2007.
@@ -94,6 +105,15 @@ Dispon{\'\i}vel em:
 Acesso em: 13 jun. 2026.
 Dispon{\'\i}vel em:
   \url{https://martinfowler.com/bliki/TestDrivenDevelopment.html}.}
+
+\bibitem[Hern{\'a}ndez-Nieto \textit{et al.} 2015]{hernandeznieto2015mobile}
+\abntrefinfo{Hern{\'a}ndez-Nieto \textit{et al.}}{HERN{\'A}NDEZ-NIETO
+  \textit{et al.}}{2015}
+{HERN{\'A}NDEZ-NIETO, C.; S{\'A}NCHEZ, X.; SALINAS, P. A mobile first approach
+  for the development of a sustainability game.
+\textbf{Procedia Computer Science}, v.~75, p. 182--185, 2015.
+Apresentado na International Conference on Virtual and Augmented Reality in
+  Education (VARE 2015).}
 
 \bibitem[{IEEE Computer Society} 2008]{ieee829}
 \abntrefinfo{{IEEE Computer Society}}{{IEEE Computer Society}}{2008}
@@ -123,6 +143,13 @@ Substitui a antiga norma ISO/IEC 9126 mencionada em processos de confiabilidade
 {LEAL, K.~S.; RODRIGUES, M. d.~S. Economia solidária: Conceitos e princípios
   norteadores.
 \textbf{Revista Humanidades e Inovação}, v.~5, n.~11, p. 210--220, 2018.}
+
+\bibitem[Lucassen \textit{et al.} 2015]{lucassen2015forging}
+\abntrefinfo{Lucassen \textit{et al.}}{LUCASSEN \textit{et al.}}{2015}
+{LUCASSEN, G.; DALPIAZ, F.; WERF, J. M. E.~M. van~der; BRINKKEMPER, S. Forging
+  high-quality user stories: Towards a discipline for agile requirements. In:
+  \textbf{2015 IEEE 23rd International Requirements Engineering Conference
+  (RE)}. Ottawa, Canada: IEEE, 2015. p. 126--135.}
 
 \bibitem[Maciel 2024]{maciel2024aplicacao}
 \abntrefinfo{Maciel}{MACIEL}{2024}
@@ -194,6 +221,12 @@ Monografia (Trabalho de Conclusão de Curso (Bacharelado em Ciências
 Disserta\c{c}\~{a}o (Disserta{\c{c}}{\~a}o (Mestrado em Gest{\~a}o e
   Inova{\c{c}}{\~a}o na Ind{\'u}stria Animal)) --- Faculdade de Zootecnia e
   Engenharia de Alimentos, Universidade de S{\~a}o Paulo, Pirassununga, 2016.}
+
+\bibitem[Rubin e Chisnell 2008]{rubin2008handbook}
+\abntrefinfo{Rubin e Chisnell}{RUBIN; CHISNELL}{2008}
+{RUBIN, J.; CHISNELL, D. \textbf{Handbook of Usability Testing: How to Plan,
+  Design, and Conduct Effective Tests}. 2. ed. Indianapolis: Wiley Publishing,
+  2008.}
 
 \bibitem[Santos e Diniz 2025]{santos2025}
 \abntrefinfo{Santos e Diniz}{SANTOS; DINIZ}{2025}
