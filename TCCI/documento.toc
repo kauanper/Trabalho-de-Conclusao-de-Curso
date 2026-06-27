@@ -3,72 +3,39 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{11}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{FUNDAMENTAÇÃO TEÓRICA}}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Apicultura e Desenvolvimento no Semiárido Brasileiro}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Associativismo e Economia Solidária}{15}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Confiança em Organizações de Economia Solidária}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Confiabilidade de Sistemas de Informação}{18}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Engenharia de Software}{18}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Engenharia de Requisitos}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Modelagem de Sistemas}{20}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Mobile First}{20}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Avaliação de Usabilidade}{21}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Verificação e Validação de Software}{21}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Modelo V}{21}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Tipos de Teste}{22}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Test-Driven Development}{22}{subsection.2.5.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{TRABALHOS RELACIONADOS}}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}APISAPP}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Colonymon Web}{25}{section.3.2}%
+\contentsline {section}{\numberline {3.3}SisFarming}{26}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Gestão de Associações}{26}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Análise Comparativa}{27}{section.3.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Metodologia}}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Elicitação de Requisitos por Prototipação Exploratória}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Especificação de Requisitos}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Planejamento dos Testes}{31}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Modelagem do Sistema}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Desenvolvimento Orientado por Testes}{32}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Avaliação de Usabilidade}{33}{section.4.6}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Cronograma}}{35}{chapter.5}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{15}{chapter.1}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{FUNDAMENTAÇÃO TEÓRICA}}{18}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Apicultura e Desenvolvimento no Semiárido Brasileiro}{18}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Associativismo e Economia Solidária}{19}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Confiança em Organizações de Economia Solidária}{21}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Confiabilidade de Sistemas de Informação}{21}{subsection.2.3.1}%
-\contentsline {section}{\numberline {2.4}Engenharia de Software}{22}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Engenharia de Requisitos}{23}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Modelagem de Sistemas}{24}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Mobile First}{24}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Avaliação de Usabilidade}{25}{subsection.2.4.4}%
-\contentsline {section}{\numberline {2.5}Verificação e Validação de Software}{25}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Modelo V}{25}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Tipos de Teste}{26}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Test-Driven Development}{26}{subsection.2.5.3}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{TRABALHOS RELACIONADOS}}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}APISAPP}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Colonymon Web}{29}{section.3.2}%
-\contentsline {section}{\numberline {3.3}SisFarming}{30}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Gestão de Associações}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Análise Comparativa}{31}{section.3.5}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Metodologia}}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Elicitação de Requisitos por Prototipação Exploratória}{33}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Especificação de Requisitos}{35}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Planejamento dos Testes}{35}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Modelagem do Sistema}{36}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Desenvolvimento Orientado por Testes}{36}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Avaliação de Usabilidade}{37}{section.4.6}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Cronograma}}{39}{chapter.5}%
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{REFER\^ENCIAS}}{40}{section*.18}%
-\contentsline {chapter}{AP\^ENDICES}{43}{section*.18}%
-\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\renewcommand *{\cftappendixname }{\bfseries AP\^ENDICE \space }
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{43}{appendix.A}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{44}{appendix.B}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {C}\normalfont Códigos-fontes utilizados para...}{45}{appendix.C}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {D}\normalfont \textit {IEEE CEFC 2016}}{46}{appendix.D}%
-\contentsline {chapter}{ANEXOS}{48}{appendix.D}%
-\cftinsert {AAA}
-\renewcommand *{\cftappendixname }{ANEXO \space }
-\renewcommand *{\cftappendixname }{\bfseries ANEXO \space }
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{48}{appendix.anexochapback.1}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{49}{appendix.anexochapback.2}%
+\contentsline {chapter}{\MakeTextUppercase []{REFER\^ENCIAS}}{36}{section*.12}%
