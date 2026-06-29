@@ -31,9 +31,9 @@ O objetivo geral deste trabalho consiste em desenvolver uma aplicação web volt
 Para alcançar o objetivo geral proposto, foram estabelecidos os seguintes objetivos específicos:
 
 \begin{itemize}
-    \item \textbf{Levantar e especificar os requisitos} funcionais e não funcionais junto aos membros e à diretoria da Associação de Apicultores de Poranga, mapeando os gargalos das rotinas manuais atuais;
-    \item \textbf{Projetar a arquitetura do sistema web}, definindo a modelagem do banco de dados e a estrutura da aplicação de modo a garantir manutenibilidade e escalabilidade;
-    \item \textbf{Implementar a aplicação web} utilizando práticas ágeis e padrões de projeto que priorizem a clareza do código e a separação de responsabilidades;
-    \item \textbf{Aplicar o Desenvolvimento Orientado por Testes (TDD)}, construindo uma suíte de testes automatizados para validar as regras de negócio antes e durante a implementação, assegurando a confiabilidade do software;
-    \item \textbf{Avaliar a qualidade do sistema} com base em critérios de usabilidade e integridade de dados, garantindo que a ferramenta seja facilmente adotada pelos associados e reflita com fidelidade a realidade administrativa da instituição.
+    \item {Elicitar os requisitos do sistema por meio de Prototipação Exploratória}, conduzida em ciclos iterativos junto a stakeholders representativos dos diferentes cargos da associação, de modo a compensar a baixa familiaridade desse público com ferramentas digitais e processos formais de especificação;
+    \item {Especificar os requisitos levantados na hierarquia de Épicos, Features e Histórias de Usuário}, definindo os critérios de aceitação no formato Given-When-Then, de forma a garantir rastreabilidade entre os requisitos e os testes a serem desenvolvidos;
+    \item {Modelar a arquitetura do sistema} por meio do Diagrama Entidade-Relacionamento (DER) e do Diagrama de Classes, orientando, respectivamente, a estrutura do banco de dados relacional e a organização do código-fonte da API;
+    \item {Implementar a aplicação} seguindo o ciclo \textit{Red-Green-Refactor} do Test-Driven Development (TDD), compondo uma API REST em Go e um cliente web em Next.js/TypeScript, com suíte de testes unitários, de integração, de aceitação e de regressão, de modo a assegurar a confiabilidade das regras de negócio ao longo da evolução do sistema;
+    \item {Avaliar a usabilidade da aplicação} junto a associados que não participaram das sessões de prototipação, por meio de Testes de Usabilidade com Usuários sobre as funcionalidades destinadas ao perfil de associado comum, de modo a verificar se a ferramenta favorece o acesso transparente às informações por todo o grupo.
 \end{itemize}
